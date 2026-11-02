@@ -18,16 +18,18 @@ If anything is unclear, ask in the group chat before the deadline rather than le
 
 ## Running order
 
-| # | Section | Owner | Length | About |
-|---|---|---|---|---|
-| 0 | Opening | Jacob | 0:30 | 75 words |
-| 1 | Demographics | Hong Ming | 1:30 | 220 words |
-| 2 | Dementia prevalence | James | 1:30 | 220 words |
-| 3 | Projection and validation | Lili | 1:45 | 260 words |
-| 4 | Physical activity | Zoe | 1:30 | 220 words |
-| 5 | AI comparison | Jacob | 2:33 | done |
-| 6 | Closing | Jacob | 0:30 | 75 words |
-| | **Total** | | **9:48** | |
+| # | Section | Owner | Length | Words | Status |
+|---|---|---|---|---|---|
+| 0 | Opening | Jacob | 0:30 | 75 | To write |
+| 1 | Demographics | Hong Ming | ~1:20 | 201 | Written |
+| 2 | Dementia prevalence | James | ~1:20 | 199 | Written |
+| 3 | Projection and validation | Lili | 1:45 | 260 | Not started |
+| 4 | Physical activity | Zoe | 1:30 | 220 | Not started |
+| 5 | AI comparison | Jacob | 2:33 | 346 | Written |
+| 6 | Closing | Jacob | 0:30 | 75 | To write |
+| | **Total** | | **~9:28** | | |
+
+Lengths of written sections are estimated from their word counts at 150 words per minute.
 
 ## Rules for everyone
 
