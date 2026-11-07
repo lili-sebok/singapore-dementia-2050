@@ -1,0 +1,103 @@
+[calm, measured documentary narrator] In 2023, about 74,000 people in Singapore were living with dementia.
+[serious] The Ministry of Health expects that number to reach 152,000 by 2030.
+[measured] And the number of older people here is rising fast.
+[curious] So how many people will have dementia in 2030, and in 2050?
+[clear, building] We built our own projection from official data, tested it against the Ministry's figure, asked what more physical activity could change, and compared how two AI systems handled the same task.
+
+[measured] To understand how dementia might affect Singapore in the future, we first need to look at something fundamental: how our population is ageing.
+[matter-of-fact] For our analysis, we collected demographic data from SingStat and the United Nations World Population Prospects 2024. While SingStat provided historical resident population statistics, we selected the UN's medium-variant projections because they extend to 2050 and provide the age-specific data required for our model.
+[clear] According to these projections, Singapore's population aged 60 and above is expected to grow from approximately 1.07 million in 2023 to 2.11 million by 2050, nearly doubling.
+[emphatic] But the most striking change occurs among those aged 85 and above. This group is projected to increase from around 72,000 to nearly 329,000 people, more than quadrupling.
+[explaining] This matters because dementia prevalence rises sharply with age. We therefore organised our demographic data into three age groups: 60–74, 75–84, and 85+, matching the categories used in the WiSE dementia studies.
+[careful] However, an important limitation is that UN projections include non-residents, while WiSE focuses on Singapore residents. Recognising this difference is essential when interpreting our results.
+[conclusive] Ultimately, our demographic analysis shows why population ageing alone could increase Singapore's dementia burden, even if prevalence within individual age groups declines.
+
+[measured] Now that we've seen how Singapore's population is ageing, let's look at how common dementia is among older adults.
+[matter-of-fact] To investigate this, we used data from the Well-being of the Singapore Elderly, or WiSE, studies conducted in 2013 and 2023.
+[explaining, clear] These studies measured dementia prevalence, which refers to the percentage of people in a population living with dementia.
+[interested] Interestingly, overall dementia prevalence among adults aged 60 and above decreased from 10% in 2013 to 8.8% in 2023.
+[curious] But does this decline occur across all age groups?
+[clear] Among those aged 60 to 74, prevalence decreased from 3.4% to 3.0%.
+[clear] For those aged 75 to 84, it decreased from 21.6% to 18.2%.
+[clear] And among those aged 85 and above, it fell from 56.2% to 48.6%.
+[thoughtful] Although prevalence decreased in every age group, the likelihood of living with dementia still increased sharply with age.
+[careful, serious] Importantly, the overall decline was not statistically significant, with a p-value of 0.298. This means we cannot confidently conclude that the observed decrease reflects a genuine population-wide trend.
+[measured] Therefore, we cannot assume dementia prevalence will continue declining at the same rate.
+[steady, listing] To account for this uncertainty, our model considers three possibilities: rates constant, decline continues, and half-pace decline.
+
+[measured] Now that we understand dementia prevalence, let's combine it with Singapore's ageing population to estimate future dementia cases.
+[clear, explaining] Our calculation was straightforward: we multiplied the population in each age group by its dementia prevalence, then added the results together.
+[thoughtful] However, because future dementia prevalence is uncertain, we developed three different scenarios.
+[clear] In the first scenario, rates constant, dementia prevalence stays at its 2023 level.
+[clear] In the second, decline continues, the reductions observed between 2013 and 2023 continue at the same annual pace.
+[clear] In the third, half-pace decline, prevalence continues decreasing, but at half the historical pace.
+[matter-of-fact] All three scenarios begin with 96,694 modelled dementia cases in 2023.
+[clear, precise] By 2030, rates constant projects 137,087 cases, decline continues projects 123,177, and half-pace decline projects 129,970.
+[pointed] Despite declining prevalence in two scenarios, the total number of cases still increases because of population ageing.
+[building emphasis] By 2050, the differences become even larger.
+[clear, precise] Rates constant reaches 295,653 cases, decline continues reaches 196,615, and half-pace decline reaches 241,237.
+[measured] To assess our projections, we compared them with the Ministry of Health's published estimate of 152,000 cases by 2030.
+[matter-of-fact] All three projections fall below this estimate, with rates constant coming closest.
+[careful] However, our 2023 starting point is already higher than the survey's own published count of 73,918, so these comparisons cannot be treated as formal validation.
+[reflective] Our results are therefore scenarios rather than guaranteed predictions, illustrating how assumptions influence future dementia estimates.
+[forward-looking] Next, we examine whether increasing physical activity could help reduce this future burden.
+
+[measured] Physical inactivity is a potentially modifiable dementia risk factor. A systematic review and meta-analysis found that higher physical activity was associated with about a 20 per cent lower risk of dementia.
+[matter-of-fact] To assess its potential impact on Singapore's future dementia burden, we used physical activity data from the National Population Health Survey: 19.7 per cent of adults aged 60 to 74 are insufficiently active.
+[clear, explaining] We calculated the Population Attributable Fraction to estimate the proportion of dementia cases attributable to physical inactivity, which was about 4.7 per cent.
+[explaining] To estimate how many cases could be avoided under three scenarios for reducing inactivity, we used the Potential Impact Fraction.
+[matter-of-fact] The 5% reduction was inspired by the National Steps Challenge, while the 15% scenario was based on the World Health Organization's global target. The 50% reduction represented an ambitious hypothetical scenario.
+[clear, precise] Applied to our rates-constant projections, a 5% reduction could avoid about 322 cases in 2030 and 694 in 2050. The estimates rise to 965 and 2,082 under the 15% scenario, and 3,217 and 6,939 under the 50% scenario.
+[thoughtful] These results suggest that a greater reduction in physical inactivity could contribute to lowering Singapore's future dementia burden. The higher estimates in 2050 reflect the larger projected dementia burden, which highlights the potential importance of physical activity as the population ages.
+[careful, serious] However, these estimates assume a causal relationship between physical inactivity and dementia, and that the inactivity rate for ages 60 to 74 applies to everyone over 60. They therefore illustrate the potential contribution of reducing physical inactivity rather than the number of cases that would actually be prevented.
+
+[calm, measured documentary narrator] We put the same questions to two AI systems, word for word.
+[deliberate] Then we checked every answer against the source.
+
+[matter-of-fact] The candidates: Claude Sonnet and Gemini Flash, each company's mid-tier model.
+[steady, listing] Same conditions every time: a new chat, the identical prompt, no web search, and no sight of our answer.
+
+[brisk] Question one, from memory.
+[dry] Gemini gave the Ministry of Health's 2030 projection as its answer for 2050.
+[dry, slightly incredulous] Sonnet credited the Ministry with eighty thousand by 2030, and didn't seem to know the 2023 survey existed.
+
+[brisk] Question two came with our data.
+[clear, precise] Both did the arithmetic perfectly: 137,087 people in 2030, and 295,653 in 2050.
+[quietly impressed] Exactly our figures.
+
+[serious, slower] The difference was judgement.
+[matter-of-fact] Gemini never checked its method against the published 2023 count.
+[thoughtful] Sonnet did check, but blamed the gap on non-residents, and cut its answer by about a quarter.
+[firm, explaining] The real cause is the survey's own base, about seventeen per cent smaller than the resident population.
+
+[measured] Eight days later we asked the same question again.
+[dry] Gemini's answer came back almost word for word.
+[building emphasis] Sonnet's score moved nineteen and a half points, more than the gap between the two systems.
+[slow, deliberate] One run proves very little.
+
+[neutral] A more detailed prompt raised both scores.
+[pointed] But under every prompt, Sonnet gave the same rescaled answer.
+[measured] The checklist got them to cover the right points.
+[quiet, firm] It didn't get them to make the right call.
+
+[curious] Question three: what would it take to reach the official 152,000 for 2030?
+[clear] Ageing alone gives growth of 1.42 times.
+[emphatic] 152,000 needs 2.06.
+[matter-of-fact] Sonnet concluded it couldn't be reproduced from the data.
+[dry, wry] Gemini found the right numbers, then described a rise as a decline.
+
+[warm, fair] Asked to cite their figures, both mostly said they didn't know, which is honest.
+[pointed] The mistakes were in the extra detail: a table number and a confidence interval that aren't in the source.
+
+[reflective, measured] Sonnet finished ahead overall, but the lesson is the same for both.
+[crisp] Reliable at arithmetic.
+[crisp] Unreliable at judgement and recall.
+[slower, serious] And the most damaging errors were the confident ones.
+[calm, conclusive] Checking against the source caught a mistake in every system we tested.
+
+[calm, conclusive] So by 2030, we project between about 123,000 and 137,000 people with dementia, and by 2050, between about 197,000 and 296,000.
+[serious, slower] Even if prevalence keeps falling, the number of cases doubles by 2050, because the population is ageing.
+[pointed] All three scenarios fall below the Ministry's 152,000 for 2030, and ageing alone cannot explain that figure.
+[measured] Cutting inactivity could avoid up to about 7,000 cases by 2050.
+[careful] These are scenarios, not forecasts, built on survey rates and a decline that was not statistically significant.
+[slow, deliberate] And every number in this video was checked against its original source.

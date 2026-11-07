@@ -1,6 +1,6 @@
 # open
 We put the same questions to two AI systems, word for word.
-Then we checked every answer against the original source.
+Then we checked every answer against the source.
 
 # setup
 The candidates: Claude Sonnet and Gemini Flash, each company's mid-tier model.
@@ -19,11 +19,11 @@ Exactly our figures.
 # judge
 The difference was judgement.
 Gemini never checked its method against the published 2023 count.
-Sonnet did, blamed the gap on non-residents, and cut its answer by about a quarter.
+Sonnet did check, but blamed the gap on non-residents, and cut its answer by about a quarter.
 The real cause is the survey's own base, about seventeen per cent smaller than the resident population.
 
 # rerun
-Eight days later we set the same question again.
+Eight days later we asked the same question again.
 Gemini's answer came back almost word for word.
 Sonnet's score moved nineteen and a half points, more than the gap between the two systems.
 One run proves very little.
@@ -50,4 +50,4 @@ Sonnet finished ahead overall, but the lesson is the same for both.
 Reliable at arithmetic.
 Unreliable at judgement and recall.
 And the most damaging errors were the confident ones.
-Checking against the original source caught a mistake in every system we tested.
+Checking against the source caught a mistake in every system we tested.

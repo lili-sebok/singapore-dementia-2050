@@ -57,16 +57,16 @@ The narration lines below are the source for [`narration.txt`](narration.txt); e
 
 | Plate | Narration |
 |---|---|
-| open | We put the same questions to two AI systems, word for word. Then we checked every answer against the original source. |
+| open | We put the same questions to two AI systems, word for word. Then we checked every answer against the source. |
 | setup | The candidates: Claude Sonnet and Gemini Flash, each company's mid-tier model. Same conditions every time: a new chat, the identical prompt, no web search, and no sight of our answer. |
 | recall | Question one, from memory. Gemini gave the Ministry of Health's 2030 projection as its answer for 2050. Sonnet credited the Ministry with eighty thousand by 2030, and didn't seem to know the 2023 survey existed. |
 | arith | Question two came with our data. Both did the arithmetic perfectly: 137,087 people in 2030, and 295,653 in 2050. Exactly our figures. |
-| judge | The difference was judgement. Gemini never checked its method against the published 2023 count. Sonnet did, blamed the gap on non-residents, and cut its answer by about a quarter. The real cause is the survey's own base, about seventeen per cent smaller than the resident population. |
-| rerun | Eight days later we set the same question again. Gemini's answer came back almost word for word. Sonnet's score moved nineteen and a half points, more than the gap between the two systems. One run proves very little. |
+| judge | The difference was judgement. Gemini never checked its method against the published 2023 count. Sonnet did check, but blamed the gap on non-residents, and cut its answer by about a quarter. The real cause is the survey's own base, about seventeen per cent smaller than the resident population. |
+| rerun | Eight days later we asked the same question again. Gemini's answer came back almost word for word. Sonnet's score moved nineteen and a half points, more than the gap between the two systems. One run proves very little. |
 | prompt | A more detailed prompt raised both scores. But under every prompt, Sonnet gave the same rescaled answer. The checklist got them to cover the right points. It didn't get them to make the right call. |
 | moh | Question three: what would it take to reach the official 152,000 for 2030? Ageing alone gives growth of 1.42 times. 152,000 needs 2.06. Sonnet concluded it couldn't be reproduced from the data. Gemini found the right numbers, then described a rise as a decline. |
 | audit | Asked to cite their figures, both mostly said they didn't know, which is honest. The mistakes were in the extra detail: a table number and a confidence interval that aren't in the source. |
-| verdict | Sonnet finished ahead overall, but the lesson is the same for both. Reliable at arithmetic. Unreliable at judgement and recall. And the most damaging errors were the confident ones. Checking against the original source caught a mistake in every system we tested. |
+| verdict | Sonnet finished ahead overall, but the lesson is the same for both. Reliable at arithmetic. Unreliable at judgement and recall. And the most damaging errors were the confident ones. Checking against the source caught a mistake in every system we tested. |
 
 ## Plates
 

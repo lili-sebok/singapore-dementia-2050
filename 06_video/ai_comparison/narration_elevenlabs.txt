@@ -1,5 +1,5 @@
 [calm, measured documentary narrator] We put the same questions to two AI systems, word for word.
-[deliberate] Then we checked every answer against the original source.
+[deliberate] Then we checked every answer against the source.
 
 [matter-of-fact] The candidates: Claude Sonnet and Gemini Flash, each company's mid-tier model.
 [steady, listing] Same conditions every time: a new chat, the identical prompt, no web search, and no sight of our answer.
@@ -14,10 +14,10 @@
 
 [serious, slower] The difference was judgement.
 [matter-of-fact] Gemini never checked its method against the published 2023 count.
-[thoughtful] Sonnet did, blamed the gap on non-residents, and cut its answer by about a quarter.
+[thoughtful] Sonnet did check, but blamed the gap on non-residents, and cut its answer by about a quarter.
 [firm, explaining] The real cause is the survey's own base, about seventeen per cent smaller than the resident population.
 
-[measured] Eight days later we set the same question again.
+[measured] Eight days later we asked the same question again.
 [dry] Gemini's answer came back almost word for word.
 [building emphasis] Sonnet's score moved nineteen and a half points, more than the gap between the two systems.
 [slow, deliberate] One run proves very little.
@@ -40,4 +40,4 @@
 [crisp] Reliable at arithmetic.
 [crisp] Unreliable at judgement and recall.
 [slower, serious] And the most damaging errors were the confident ones.
-[calm, conclusive] Checking against the original source caught a mistake in every system we tested.
+[calm, conclusive] Checking against the source caught a mistake in every system we tested.
