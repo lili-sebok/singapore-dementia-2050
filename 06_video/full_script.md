@@ -29,7 +29,7 @@ The whole video in running order, with each teammate's section from the Google D
 
 ## 1. Demographics (Hong Ming)
 
-**Main point:** (to be filled in by Hong Ming)
+**Main point:** Singapore's population aged 60 and over nearly doubles by 2050 and the 85+ group more than quadruples, so ageing alone could raise dementia cases even if prevalence within each age group falls.
 
 | Narration | On screen |
 |---|---|
@@ -43,11 +43,11 @@ The whole video in running order, with each teammate's section from the Google D
 
 **Sources:** United Nations, Department of Economic and Social Affairs, Population Division (2024). World Population Prospects 2024. https://population.un.org/wpp/ · Singapore Department of Statistics. Population statistics. https://www.singstat.gov.sg/ · Subramaniam et al. (2025). Prevalence of dementia in Singapore: Changes across a decade. https://doi.org/10.1002/alz.14485
 
-**AI tools used:** (to be filled in by Hong Ming)
+**AI tools used:** None.
 
 ## 2. Dementia prevalence (James)
 
-**Main point:** (to be filled in by James)
+**Main point:** Dementia prevalence fell in every age group between WiSE 2013 and 2023 but still rises sharply with age, and the overall fall was not statistically significant, so we model three scenarios instead of assuming the decline continues.
 
 | Narration | On screen |
 |---|---|
@@ -70,7 +70,7 @@ The whole video in running order, with each teammate's section from the Google D
 
 ## 3. Projection and validation (Lili)
 
-**Main point:** (to be filled in by Lili)
+**Main point:** In every scenario, cases rise by 2030 and 2050 because the population is ageing; all three fall below MOH's 152,000, so they are scenarios rather than validated predictions.
 
 | Narration | On screen |
 |---|---|
@@ -97,7 +97,7 @@ The whole video in running order, with each teammate's section from the Google D
 
 ## 4. Physical activity (Zoe)
 
-**Main point:** (to be filled in by Zoe)
+**Main point:** Reducing physical inactivity could avoid between about 700 and almost 7,000 dementia cases in 2050, if the link between inactivity and dementia is causal.
 
 | Narration | On screen |
 |---|---|
@@ -149,4 +149,4 @@ On screen and references:
 - **James:** "Institution" to Institute; date "(2024, August 2024)" to (2024, 28 August); empty rows removed.
 - Hong Ming's section is unchanged.
 
-Still needed from the team: a "Main point" for sections 1 to 4, and AI tools for section 1.
+- **Main points for sections 1 to 4** were written by Jacob from each section's narration, and section 1's AI tools set to none; owners should correct them if they disagree.
