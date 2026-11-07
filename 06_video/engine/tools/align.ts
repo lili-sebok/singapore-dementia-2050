@@ -145,12 +145,76 @@ for (let li = 0; li < lineMeta.length; li++) {
 
 // every plate holds at least HOLD seconds after its last word: add silence at plate breaks that are shorter
 const HOLD = Number(process.env.HOLD ?? 1.2);
+// Where in a gap to splice the silence in: the first 20 ms window within 3 dB of the gap's quietest, so the cut
+// falls just after the previous word dies away and never inside a breath or a word (a cut there sounds like a
+// cough). Each splice also gets short fades.
+const SR = 48000, FADE = 0.01;
+const pcm = new Float32Array(await $`ffmpeg -loglevel error -i ${final} -f f32le -ac 1 -ar ${SR} -`.arrayBuffer());
+// The TTS take is gated: between some sentences it drops to digital silence mid-breath, and the hard edge sounds
+// like a cough (worse once sped up). Fade the EDGE seconds of sound either side of every gated silence.
+{
+  const EDGE = 0.03, E = Math.round(EDGE * SR), MIN = Math.round(0.1 * SR), Z = 2 / 32768;
+  const ramp = (k: number) => 0.5 - 0.5 * Math.cos((Math.PI * k) / E); // 0 → 1 over E samples
+  let i = 0, edges = 0;
+  while (i < pcm.length) {
+    if (Math.abs(pcm[i]!) >= Z) { i++; continue; }
+    let j = i;
+    while (j < pcm.length && Math.abs(pcm[j]!) < Z) j++;
+    if (j - i >= MIN) {
+      for (let k = 0; k < E && i - 1 - k >= 0; k++) pcm[i - 1 - k]! *= ramp(k);
+      for (let k = 0; k < E && j + k < pcm.length; k++) pcm[j + k]! *= ramp(k);
+      edges++;
+    }
+    i = j;
+  }
+  console.log(`smoothed ${edges} gated silences`);
+}
+// ElevenLabs v3 reads a bare [clear] tag as "clear your throat": a short noise burst, a gap, then the line. Find
+// that shape at the start of a line's first word (a gap of 60 ms or more, 28 dB under the burst, starting
+// 0.12-0.45 s in) and mute the burst. Word times stay as they are, so the picture does not move.
+{
+  const H = Math.round(0.005 * SR), GAP = 12, FROM = 24, TO = 90; // frames of 5 ms
+  const lv = (s: number) => { let e = 0; for (let k = s; k < s + H; k++) e += pcm[k]! ** 2; return 10 * Math.log10(e / H + 1e-18); };
+  for (let li = 0; li < lineMeta.length; li++) {
+    const w = sw.find((x) => x.line === li)!;
+    const s0 = Math.round(w.s! * SR), n = Math.floor(((Math.min(w.e!, w.s! + 0.7) - w.s!) * SR) / H);
+    if (n < FROM + GAP) continue;
+    const v = Array.from({ length: n }, (_, i) => lv(s0 + i * H));
+    const peak = Math.max(...v.slice(0, TO));
+    let g = -1;
+    for (let i = FROM; i < Math.min(n - GAP, TO); i++) if (v.slice(i, i + GAP).every((x) => x < peak - 28)) { g = i; break; }
+    if (g < 0) continue;
+    // mute through the gap to where the word itself starts (the burst's quiet tail is still audible), then a
+    // 10 ms fade-in onto the word
+    let j = g;
+    while (j < n && v[j]! < peak - 28) j++;
+    const end = s0 + j * H - Math.round(0.01 * SR), F = Math.round(0.01 * SR);
+    pcm.fill(0, Math.max(0, s0 - Math.round(0.02 * SR)), end);
+    for (let k = 0; k < F; k++) pcm[end + k]! *= k / F;
+    console.log(`muted a throat-clear (${(j * 0.005).toFixed(2)} s) before line ${li + 1} at ${w.s!.toFixed(2)} s: ${lineMeta[li]!.text.slice(0, 40)}`);
+  }
+}
+const smooth = path.join(tmp, 'smooth.wav');
+await Bun.write(path.join(tmp, 'smooth.f32'), pcm);
+await $`ffmpeg -loglevel error -y -f f32le -ar ${SR} -ac 1 -i ${path.join(tmp, 'smooth.f32')} -c:a pcm_s16le ${smooth}`;
+const quietCut = (t0: number, t1: number) => {
+  const W = 960, step = 240, s0 = Math.round(t0 * SR), s1 = Math.round(t1 * SR) - W;
+  const win: [number, number][] = [];
+  for (let s = s0; s <= s1; s += step) {
+    let e = 0;
+    for (let k = s; k < s + W; k++) e += pcm[k]! * pcm[k]!;
+    win.push([s, e]);
+  }
+  if (!win.length) return (t0 + t1) / 2;
+  const min = Math.min(...win.map((w) => w[1]));
+  return (win.find((w) => w[1] <= min * 2 + 1e-12)![0] + W / 2) / SR;
+};
 const breaks: { at: number; add: number }[] = [];
 for (let pi = 1; pi < plates.length; pi++) {
   const prev = sw.filter((x) => lineMeta[x.line]!.plate === plates[pi - 1]!.name).at(-1)!;
   const next = sw.find((x) => lineMeta[x.line]!.plate === plates[pi]!.name)!;
   const gap = next.s! - prev.e!;
-  if (gap < HOLD + CUT_LEAD) breaks.push({ at: (prev.e! + next.s!) / 2, add: HOLD + CUT_LEAD - gap });
+  if (gap < HOLD + CUT_LEAD) breaks.push({ at: quietCut(prev.e!, next.s!), add: HOLD + CUT_LEAD - gap });
 }
 for (const x of sw) {
   const shift = breaks.filter((b) => b.at < x.s!).reduce((a, b) => a + b.add, 0);
@@ -159,13 +223,15 @@ for (const x of sw) {
 const segs: string[] = [];
 let from = 0;
 breaks.forEach((b, i) => {
-  segs.push(`[0]atrim=${from}:${b.at},asetpts=PTS-STARTPTS[a${i}]`, `aevalsrc=0:d=${b.add.toFixed(3)}:s=48000[z${i}]`);
+  const fin = i > 0 ? `,afade=t=in:d=${FADE}` : '';
+  const fout = `,afade=t=out:st=${(b.at - from - FADE).toFixed(4)}:d=${FADE}`;
+  segs.push(`[0]atrim=${from}:${b.at},asetpts=PTS-STARTPTS${fin}${fout}[a${i}]`, `aevalsrc=0:d=${b.add.toFixed(3)}:s=48000[z${i}]`);
   from = b.at;
 });
-segs.push(`[0]atrim=start=${from},asetpts=PTS-STARTPTS[a${breaks.length}]`);
+segs.push(`[0]atrim=start=${from},asetpts=PTS-STARTPTS${breaks.length ? `,afade=t=in:d=${FADE}` : ''}[a${breaks.length}]`);
 const order = breaks.map((_, i) => `[a${i}][z${i}]`).join('') + `[a${breaks.length}]`;
 const held = path.join(tmp, 'held.wav');
-await $`ffmpeg -loglevel error -y -i ${final} -filter_complex ${segs.join(';') + ';' + order + `concat=n=${breaks.length * 2 + 1}:v=0:a=1`} ${held}`;
+await $`ffmpeg -loglevel error -y -i ${smooth} -filter_complex ${segs.join(';') + ';' + order + `concat=n=${breaks.length * 2 + 1}:v=0:a=1`} ${held}`;
 duration = Number((await $`ffprobe -v error -show_entries format=duration -of csv=p=0 ${held}`.text()).trim());
 const scratch = path.join(ROOT, 'audio/narration.scratch.mp3');
 if (!existsSync(scratch)) copyFileSync(path.join(ROOT, 'audio/narration.mp3'), scratch);
