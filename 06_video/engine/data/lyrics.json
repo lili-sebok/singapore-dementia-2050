@@ -1,0 +1,7937 @@
+{
+ "lines": [
+  {
+   "i": 0,
+   "plate": "op-count",
+   "text": "In 2023, about 74,000 people in Singapore were living with dementia.",
+   "start": 6,
+   "end": 10.211,
+   "words": [
+    {
+     "w": "In",
+     "start": 6,
+     "end": 6.36
+    },
+    {
+     "w": "2023,",
+     "start": 6.36,
+     "end": 6.84
+    },
+    {
+     "w": "about",
+     "start": 6.84,
+     "end": 7.34
+    },
+    {
+     "w": "74,000",
+     "start": 7.34,
+     "end": 8.36
+    },
+    {
+     "w": "people",
+     "start": 8.36,
+     "end": 8.6
+    },
+    {
+     "w": "in",
+     "start": 8.6,
+     "end": 8.8
+    },
+    {
+     "w": "Singapore",
+     "start": 8.8,
+     "end": 9.04
+    },
+    {
+     "w": "were",
+     "start": 9.04,
+     "end": 9.38
+    },
+    {
+     "w": "living",
+     "start": 9.38,
+     "end": 9.54
+    },
+    {
+     "w": "with",
+     "start": 9.54,
+     "end": 9.76
+    },
+    {
+     "w": "dementia.",
+     "start": 9.76,
+     "end": 10.211
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "plate": "op-count",
+   "text": "The Ministry of Health expects that number to reach 152,000 by 2030.",
+   "start": 10.841,
+   "end": 15.199,
+   "words": [
+    {
+     "w": "The",
+     "start": 10.841,
+     "end": 10.94
+    },
+    {
+     "w": "Ministry",
+     "start": 10.94,
+     "end": 11.08
+    },
+    {
+     "w": "of",
+     "start": 11.08,
+     "end": 11.34
+    },
+    {
+     "w": "Health",
+     "start": 11.34,
+     "end": 11.58
+    },
+    {
+     "w": "expects",
+     "start": 11.58,
+     "end": 11.94
+    },
+    {
+     "w": "that",
+     "start": 11.94,
+     "end": 12.18
+    },
+    {
+     "w": "number",
+     "start": 12.18,
+     "end": 12.38
+    },
+    {
+     "w": "to",
+     "start": 12.38,
+     "end": 12.54
+    },
+    {
+     "w": "reach",
+     "start": 12.54,
+     "end": 12.68
+    },
+    {
+     "w": "152,000",
+     "start": 12.68,
+     "end": 14.28
+    },
+    {
+     "w": "by",
+     "start": 14.28,
+     "end": 14.44
+    },
+    {
+     "w": "2030.",
+     "start": 14.44,
+     "end": 15.199
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "plate": "op-question",
+   "text": "And the number of older people here is rising fast.",
+   "start": 16.449,
+   "end": 18.774,
+   "words": [
+    {
+     "w": "And",
+     "start": 16.449,
+     "end": 16.549
+    },
+    {
+     "w": "the",
+     "start": 16.549,
+     "end": 16.629
+    },
+    {
+     "w": "number",
+     "start": 16.629,
+     "end": 16.769
+    },
+    {
+     "w": "of",
+     "start": 16.769,
+     "end": 16.929
+    },
+    {
+     "w": "older",
+     "start": 16.929,
+     "end": 17.209
+    },
+    {
+     "w": "people",
+     "start": 17.209,
+     "end": 17.429
+    },
+    {
+     "w": "here",
+     "start": 17.429,
+     "end": 17.709
+    },
+    {
+     "w": "is",
+     "start": 17.709,
+     "end": 17.909
+    },
+    {
+     "w": "rising",
+     "start": 17.909,
+     "end": 18.229
+    },
+    {
+     "w": "fast.",
+     "start": 18.229,
+     "end": 18.774
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "plate": "op-question",
+   "text": "So how many people will have dementia in 2030, and in 2050?",
+   "start": 19.183,
+   "end": 23.016,
+   "words": [
+    {
+     "w": "So",
+     "start": 19.183,
+     "end": 19.439
+    },
+    {
+     "w": "how",
+     "start": 19.579,
+     "end": 19.819
+    },
+    {
+     "w": "many",
+     "start": 19.819,
+     "end": 19.959
+    },
+    {
+     "w": "people",
+     "start": 19.959,
+     "end": 20.219
+    },
+    {
+     "w": "will",
+     "start": 20.219,
+     "end": 20.379
+    },
+    {
+     "w": "have",
+     "start": 20.379,
+     "end": 20.499
+    },
+    {
+     "w": "dementia",
+     "start": 20.499,
+     "end": 20.739
+    },
+    {
+     "w": "in",
+     "start": 20.739,
+     "end": 21.099
+    },
+    {
+     "w": "2030,",
+     "start": 21.099,
+     "end": 21.639
+    },
+    {
+     "w": "and",
+     "start": 21.639,
+     "end": 22.299
+    },
+    {
+     "w": "in",
+     "start": 22.299,
+     "end": 22.439
+    },
+    {
+     "w": "2050?",
+     "start": 22.439,
+     "end": 23.016
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "plate": "op-question",
+   "text": "We built our own projection from official data, tested it against the Ministry's figure, asked what more physical activity could change, and compared how two AI systems handled the same task.",
+   "start": 23.732,
+   "end": 32.392,
+   "words": [
+    {
+     "w": "We",
+     "start": 23.732,
+     "end": 23.859
+    },
+    {
+     "w": "built",
+     "start": 23.859,
+     "end": 24.059
+    },
+    {
+     "w": "our",
+     "start": 24.059,
+     "end": 24.239
+    },
+    {
+     "w": "own",
+     "start": 24.239,
+     "end": 24.459
+    },
+    {
+     "w": "projection",
+     "start": 24.459,
+     "end": 24.819
+    },
+    {
+     "w": "from",
+     "start": 24.819,
+     "end": 25.059
+    },
+    {
+     "w": "official",
+     "start": 25.059,
+     "end": 25.359
+    },
+    {
+     "w": "data,",
+     "start": 25.359,
+     "end": 25.719
+    },
+    {
+     "w": "tested",
+     "start": 25.899,
+     "end": 26.259
+    },
+    {
+     "w": "it",
+     "start": 26.259,
+     "end": 26.439
+    },
+    {
+     "w": "against",
+     "start": 26.439,
+     "end": 26.619
+    },
+    {
+     "w": "the",
+     "start": 26.619,
+     "end": 26.779
+    },
+    {
+     "w": "Ministry's",
+     "start": 26.779,
+     "end": 27.179
+    },
+    {
+     "w": "figure,",
+     "start": 27.179,
+     "end": 27.379
+    },
+    {
+     "w": "asked",
+     "start": 27.399,
+     "end": 27.879
+    },
+    {
+     "w": "what",
+     "start": 27.879,
+     "end": 28.079
+    },
+    {
+     "w": "more",
+     "start": 28.079,
+     "end": 28.339
+    },
+    {
+     "w": "physical",
+     "start": 28.339,
+     "end": 28.579
+    },
+    {
+     "w": "activity",
+     "start": 28.579,
+     "end": 28.959
+    },
+    {
+     "w": "could",
+     "start": 28.959,
+     "end": 29.119
+    },
+    {
+     "w": "change,",
+     "start": 29.119,
+     "end": 29.519
+    },
+    {
+     "w": "and",
+     "start": 29.739,
+     "end": 29.859
+    },
+    {
+     "w": "compared",
+     "start": 29.859,
+     "end": 30.159
+    },
+    {
+     "w": "how",
+     "start": 30.159,
+     "end": 30.359
+    },
+    {
+     "w": "two",
+     "start": 30.359,
+     "end": 30.599
+    },
+    {
+     "w": "AI",
+     "start": 30.599,
+     "end": 30.899
+    },
+    {
+     "w": "systems",
+     "start": 30.899,
+     "end": 31.199
+    },
+    {
+     "w": "handled",
+     "start": 31.199,
+     "end": 31.539
+    },
+    {
+     "w": "the",
+     "start": 31.539,
+     "end": 31.719
+    },
+    {
+     "w": "same",
+     "start": 31.719,
+     "end": 31.939
+    },
+    {
+     "w": "task.",
+     "start": 31.939,
+     "end": 32.392
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "plate": "dem-data",
+   "text": "To understand how dementia might affect Singapore in the future, we first need to look at something fundamental: how our population is ageing.",
+   "start": 33.642,
+   "end": 40.258,
+   "words": [
+    {
+     "w": "To",
+     "start": 33.642,
+     "end": 33.731
+    },
+    {
+     "w": "understand",
+     "start": 33.731,
+     "end": 34.111
+    },
+    {
+     "w": "how",
+     "start": 34.111,
+     "end": 34.371
+    },
+    {
+     "w": "dementia",
+     "start": 34.371,
+     "end": 34.711
+    },
+    {
+     "w": "might",
+     "start": 34.711,
+     "end": 34.951
+    },
+    {
+     "w": "affect",
+     "start": 34.951,
+     "end": 35.211
+    },
+    {
+     "w": "Singapore",
+     "start": 35.211,
+     "end": 35.571
+    },
+    {
+     "w": "in",
+     "start": 35.571,
+     "end": 35.751
+    },
+    {
+     "w": "the",
+     "start": 35.751,
+     "end": 35.851
+    },
+    {
+     "w": "future,",
+     "start": 35.851,
+     "end": 36.191
+    },
+    {
+     "w": "we",
+     "start": 36.632,
+     "end": 36.711
+    },
+    {
+     "w": "first",
+     "start": 36.711,
+     "end": 36.911
+    },
+    {
+     "w": "need",
+     "start": 36.911,
+     "end": 37.071
+    },
+    {
+     "w": "to",
+     "start": 37.071,
+     "end": 37.171
+    },
+    {
+     "w": "look",
+     "start": 37.171,
+     "end": 37.251
+    },
+    {
+     "w": "at",
+     "start": 37.251,
+     "end": 37.331
+    },
+    {
+     "w": "something",
+     "start": 37.331,
+     "end": 37.611
+    },
+    {
+     "w": "fundamental:",
+     "start": 37.611,
+     "end": 38.111
+    },
+    {
+     "w": "how",
+     "start": 38.649,
+     "end": 38.831
+    },
+    {
+     "w": "our",
+     "start": 38.831,
+     "end": 39.051
+    },
+    {
+     "w": "population",
+     "start": 39.051,
+     "end": 39.391
+    },
+    {
+     "w": "is",
+     "start": 39.391,
+     "end": 39.751
+    },
+    {
+     "w": "ageing.",
+     "start": 39.751,
+     "end": 40.258
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "plate": "dem-data",
+   "text": "For our analysis, we collected demographic data from SingStat and the United Nations World Population Prospects 2024. While SingStat provided historical resident population statistics, we selected the UN's medium-variant projections because they extend to 2050 and provide the age-specific data required for our model.",
+   "start": 40.763,
+   "end": 56.826,
+   "words": [
+    {
+     "w": "For",
+     "start": 40.763,
+     "end": 40.901
+    },
+    {
+     "w": "our",
+     "start": 40.901,
+     "end": 41.021
+    },
+    {
+     "w": "analysis,",
+     "start": 41.021,
+     "end": 41.401
+    },
+    {
+     "w": "we",
+     "start": 41.741,
+     "end": 41.821
+    },
+    {
+     "w": "collected",
+     "start": 41.821,
+     "end": 42.061
+    },
+    {
+     "w": "demographic",
+     "start": 42.061,
+     "end": 42.501
+    },
+    {
+     "w": "data",
+     "start": 42.501,
+     "end": 42.881
+    },
+    {
+     "w": "from",
+     "start": 42.881,
+     "end": 43.161
+    },
+    {
+     "w": "SingStat",
+     "start": 43.161,
+     "end": 43.541
+    },
+    {
+     "w": "and",
+     "start": 43.541,
+     "end": 43.941
+    },
+    {
+     "w": "the",
+     "start": 43.941,
+     "end": 44.021
+    },
+    {
+     "w": "United",
+     "start": 44.021,
+     "end": 44.201
+    },
+    {
+     "w": "Nations",
+     "start": 44.201,
+     "end": 44.661
+    },
+    {
+     "w": "World",
+     "start": 44.661,
+     "end": 44.921
+    },
+    {
+     "w": "Population",
+     "start": 44.921,
+     "end": 45.381
+    },
+    {
+     "w": "Prospects",
+     "start": 45.381,
+     "end": 46.021
+    },
+    {
+     "w": "2024.",
+     "start": 46.021,
+     "end": 46.361
+    },
+    {
+     "w": "While",
+     "start": 47.341,
+     "end": 47.441
+    },
+    {
+     "w": "SingStat",
+     "start": 47.441,
+     "end": 47.821
+    },
+    {
+     "w": "provided",
+     "start": 47.821,
+     "end": 48.201
+    },
+    {
+     "w": "historical",
+     "start": 48.201,
+     "end": 48.621
+    },
+    {
+     "w": "resident",
+     "start": 48.621,
+     "end": 49.041
+    },
+    {
+     "w": "population",
+     "start": 49.041,
+     "end": 49.501
+    },
+    {
+     "w": "statistics,",
+     "start": 49.501,
+     "end": 49.961
+    },
+    {
+     "w": "we",
+     "start": 50.401,
+     "end": 50.581
+    },
+    {
+     "w": "selected",
+     "start": 50.581,
+     "end": 50.861
+    },
+    {
+     "w": "the",
+     "start": 50.861,
+     "end": 51.041
+    },
+    {
+     "w": "UN's",
+     "start": 51.041,
+     "end": 51.441
+    },
+    {
+     "w": "medium-variant",
+     "start": 51.441,
+     "end": 51.993
+    },
+    {
+     "w": "projections",
+     "start": 52.041,
+     "end": 52.541
+    },
+    {
+     "w": "because",
+     "start": 52.541,
+     "end": 52.961
+    },
+    {
+     "w": "they",
+     "start": 52.961,
+     "end": 53.121
+    },
+    {
+     "w": "extend",
+     "start": 53.121,
+     "end": 53.401
+    },
+    {
+     "w": "to",
+     "start": 53.401,
+     "end": 53.581
+    },
+    {
+     "w": "2050",
+     "start": 53.581,
+     "end": 54.041
+    },
+    {
+     "w": "and",
+     "start": 54.041,
+     "end": 54.561
+    },
+    {
+     "w": "provide",
+     "start": 54.561,
+     "end": 54.781
+    },
+    {
+     "w": "the",
+     "start": 54.781,
+     "end": 54.941
+    },
+    {
+     "w": "age-specific",
+     "start": 54.941,
+     "end": 55.401
+    },
+    {
+     "w": "data",
+     "start": 55.441,
+     "end": 55.841
+    },
+    {
+     "w": "required",
+     "start": 55.841,
+     "end": 56.241
+    },
+    {
+     "w": "for",
+     "start": 56.241,
+     "end": 56.441
+    },
+    {
+     "w": "our",
+     "start": 56.441,
+     "end": 56.541
+    },
+    {
+     "w": "model.",
+     "start": 56.541,
+     "end": 56.826
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "plate": "dem-growth",
+   "text": "According to these projections, Singapore's population aged 60 and above is expected to grow from approximately 1.07 million in 2023 to 2.11 million by 2050, nearly doubling.",
+   "start": 58.076,
+   "end": 69.018,
+   "words": [
+    {
+     "w": "According",
+     "start": 58.076,
+     "end": 58.655
+    },
+    {
+     "w": "to",
+     "start": 58.655,
+     "end": 58.875
+    },
+    {
+     "w": "these",
+     "start": 58.875,
+     "end": 58.975
+    },
+    {
+     "w": "projections,",
+     "start": 58.975,
+     "end": 59.415
+    },
+    {
+     "w": "Singapore's",
+     "start": 59.765,
+     "end": 60.305
+    },
+    {
+     "w": "population",
+     "start": 60.305,
+     "end": 60.665
+    },
+    {
+     "w": "aged",
+     "start": 60.665,
+     "end": 60.965
+    },
+    {
+     "w": "60",
+     "start": 60.965,
+     "end": 61.405
+    },
+    {
+     "w": "and",
+     "start": 61.405,
+     "end": 61.485
+    },
+    {
+     "w": "above",
+     "start": 61.485,
+     "end": 61.785
+    },
+    {
+     "w": "is",
+     "start": 61.785,
+     "end": 62.085
+    },
+    {
+     "w": "expected",
+     "start": 62.085,
+     "end": 62.345
+    },
+    {
+     "w": "to",
+     "start": 62.345,
+     "end": 62.565
+    },
+    {
+     "w": "grow",
+     "start": 62.565,
+     "end": 62.705
+    },
+    {
+     "w": "from",
+     "start": 62.705,
+     "end": 62.905
+    },
+    {
+     "w": "approximately",
+     "start": 62.905,
+     "end": 63.285
+    },
+    {
+     "w": "1.07",
+     "start": 63.285,
+     "end": 64.385
+    },
+    {
+     "w": "million",
+     "start": 64.385,
+     "end": 64.605
+    },
+    {
+     "w": "in",
+     "start": 64.605,
+     "end": 64.845
+    },
+    {
+     "w": "2023",
+     "start": 64.845,
+     "end": 65.565
+    },
+    {
+     "w": "to",
+     "start": 65.565,
+     "end": 66.065
+    },
+    {
+     "w": "2.11",
+     "start": 66.065,
+     "end": 66.885
+    },
+    {
+     "w": "million",
+     "start": 66.885,
+     "end": 67.185
+    },
+    {
+     "w": "by",
+     "start": 67.185,
+     "end": 67.385
+    },
+    {
+     "w": "2050,",
+     "start": 67.385,
+     "end": 67.985
+    },
+    {
+     "w": "nearly",
+     "start": 68.305,
+     "end": 68.465
+    },
+    {
+     "w": "doubling.",
+     "start": 68.465,
+     "end": 69.018
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "plate": "dem-growth",
+   "text": "But the most striking change occurs among those aged 85 and above. This group is projected to increase from around 72,000 to nearly 329,000 people, more than quadrupling.",
+   "start": 69.613,
+   "end": 79.467,
+   "words": [
+    {
+     "w": "But",
+     "start": 69.613,
+     "end": 69.685
+    },
+    {
+     "w": "the",
+     "start": 69.685,
+     "end": 69.765
+    },
+    {
+     "w": "most",
+     "start": 69.765,
+     "end": 69.885
+    },
+    {
+     "w": "striking",
+     "start": 69.885,
+     "end": 70.305
+    },
+    {
+     "w": "change",
+     "start": 70.305,
+     "end": 70.705
+    },
+    {
+     "w": "occurs",
+     "start": 70.705,
+     "end": 70.945
+    },
+    {
+     "w": "among",
+     "start": 70.945,
+     "end": 71.165
+    },
+    {
+     "w": "those",
+     "start": 71.165,
+     "end": 71.385
+    },
+    {
+     "w": "aged",
+     "start": 71.385,
+     "end": 71.705
+    },
+    {
+     "w": "85",
+     "start": 71.705,
+     "end": 72.205
+    },
+    {
+     "w": "and",
+     "start": 72.205,
+     "end": 72.385
+    },
+    {
+     "w": "above.",
+     "start": 72.385,
+     "end": 72.685
+    },
+    {
+     "w": "This",
+     "start": 73.186,
+     "end": 73.365
+    },
+    {
+     "w": "group",
+     "start": 73.365,
+     "end": 73.545
+    },
+    {
+     "w": "is",
+     "start": 73.545,
+     "end": 73.685
+    },
+    {
+     "w": "projected",
+     "start": 73.685,
+     "end": 73.945
+    },
+    {
+     "w": "to",
+     "start": 73.945,
+     "end": 74.165
+    },
+    {
+     "w": "increase",
+     "start": 74.165,
+     "end": 74.425
+    },
+    {
+     "w": "from",
+     "start": 74.425,
+     "end": 74.645
+    },
+    {
+     "w": "around",
+     "start": 74.645,
+     "end": 74.845
+    },
+    {
+     "w": "72,000",
+     "start": 74.845,
+     "end": 75.945
+    },
+    {
+     "w": "to",
+     "start": 75.945,
+     "end": 76.245
+    },
+    {
+     "w": "nearly",
+     "start": 76.245,
+     "end": 76.425
+    },
+    {
+     "w": "329,000",
+     "start": 76.425,
+     "end": 77.925
+    },
+    {
+     "w": "people,",
+     "start": 77.925,
+     "end": 78.205
+    },
+    {
+     "w": "more",
+     "start": 78.425,
+     "end": 78.605
+    },
+    {
+     "w": "than",
+     "start": 78.605,
+     "end": 78.785
+    },
+    {
+     "w": "quadrupling.",
+     "start": 78.785,
+     "end": 79.467
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "plate": "dem-bands",
+   "text": "This matters because dementia prevalence rises sharply with age. We therefore organised our demographic data into three age groups: 60–74, 75–84, and 85+, matching the categories used in the WiSE dementia studies.",
+   "start": 80.717,
+   "end": 93.409,
+   "words": [
+    {
+     "w": "This",
+     "start": 80.717,
+     "end": 80.89
+    },
+    {
+     "w": "matters",
+     "start": 80.89,
+     "end": 81.23
+    },
+    {
+     "w": "because",
+     "start": 81.23,
+     "end": 81.61
+    },
+    {
+     "w": "dementia",
+     "start": 81.61,
+     "end": 81.91
+    },
+    {
+     "w": "prevalence",
+     "start": 81.91,
+     "end": 82.31
+    },
+    {
+     "w": "rises",
+     "start": 82.31,
+     "end": 82.67
+    },
+    {
+     "w": "sharply",
+     "start": 82.67,
+     "end": 83.03
+    },
+    {
+     "w": "with",
+     "start": 83.03,
+     "end": 83.27
+    },
+    {
+     "w": "age.",
+     "start": 83.27,
+     "end": 83.51
+    },
+    {
+     "w": "We",
+     "start": 84.12,
+     "end": 84.21
+    },
+    {
+     "w": "therefore",
+     "start": 84.21,
+     "end": 84.51
+    },
+    {
+     "w": "organised",
+     "start": 84.51,
+     "end": 84.89
+    },
+    {
+     "w": "our",
+     "start": 84.89,
+     "end": 85.09
+    },
+    {
+     "w": "demographic",
+     "start": 85.09,
+     "end": 85.43
+    },
+    {
+     "w": "data",
+     "start": 85.43,
+     "end": 85.77
+    },
+    {
+     "w": "into",
+     "start": 85.77,
+     "end": 86.03
+    },
+    {
+     "w": "three",
+     "start": 86.03,
+     "end": 86.37
+    },
+    {
+     "w": "age",
+     "start": 86.37,
+     "end": 86.61
+    },
+    {
+     "w": "groups:",
+     "start": 86.61,
+     "end": 86.89
+    },
+    {
+     "w": "60–74,",
+     "start": 87.27,
+     "end": 88.15
+    },
+    {
+     "w": "75–84,",
+     "start": 88.514,
+     "end": 89.51
+    },
+    {
+     "w": "and",
+     "start": 89.95,
+     "end": 90.03
+    },
+    {
+     "w": "85+,",
+     "start": 90.03,
+     "end": 90.55
+    },
+    {
+     "w": "matching",
+     "start": 90.87,
+     "end": 91.47
+    },
+    {
+     "w": "the",
+     "start": 91.47,
+     "end": 91.61
+    },
+    {
+     "w": "categories",
+     "start": 91.61,
+     "end": 91.93
+    },
+    {
+     "w": "used",
+     "start": 91.93,
+     "end": 92.21
+    },
+    {
+     "w": "in",
+     "start": 92.21,
+     "end": 92.37
+    },
+    {
+     "w": "the",
+     "start": 92.37,
+     "end": 92.51
+    },
+    {
+     "w": "WiSE",
+     "start": 92.51,
+     "end": 92.65
+    },
+    {
+     "w": "dementia",
+     "start": 92.65,
+     "end": 92.93
+    },
+    {
+     "w": "studies.",
+     "start": 92.93,
+     "end": 93.409
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "plate": "dem-caveat",
+   "text": "However, an important limitation is that UN projections include non-residents, while WiSE focuses on Singapore residents. Recognising this difference is essential when interpreting our results.",
+   "start": 94.659,
+   "end": 103.875,
+   "words": [
+    {
+     "w": "However,",
+     "start": 94.659,
+     "end": 94.943
+    },
+    {
+     "w": "an",
+     "start": 95.283,
+     "end": 95.403
+    },
+    {
+     "w": "important",
+     "start": 95.403,
+     "end": 95.783
+    },
+    {
+     "w": "limitation",
+     "start": 95.783,
+     "end": 96.183
+    },
+    {
+     "w": "is",
+     "start": 96.183,
+     "end": 96.583
+    },
+    {
+     "w": "that",
+     "start": 96.583,
+     "end": 96.703
+    },
+    {
+     "w": "UN",
+     "start": 96.703,
+     "end": 96.963
+    },
+    {
+     "w": "projections",
+     "start": 96.963,
+     "end": 97.343
+    },
+    {
+     "w": "include",
+     "start": 97.343,
+     "end": 97.803
+    },
+    {
+     "w": "non-residents,",
+     "start": 97.803,
+     "end": 98.742
+    },
+    {
+     "w": "while",
+     "start": 98.823,
+     "end": 99.003
+    },
+    {
+     "w": "WiSE",
+     "start": 99.003,
+     "end": 99.383
+    },
+    {
+     "w": "focuses",
+     "start": 99.383,
+     "end": 99.683
+    },
+    {
+     "w": "on",
+     "start": 99.683,
+     "end": 99.883
+    },
+    {
+     "w": "Singapore",
+     "start": 99.883,
+     "end": 100.203
+    },
+    {
+     "w": "residents.",
+     "start": 100.203,
+     "end": 100.723
+    },
+    {
+     "w": "Recognising",
+     "start": 101.243,
+     "end": 101.543
+    },
+    {
+     "w": "this",
+     "start": 101.543,
+     "end": 101.743
+    },
+    {
+     "w": "difference",
+     "start": 101.743,
+     "end": 102.023
+    },
+    {
+     "w": "is",
+     "start": 102.023,
+     "end": 102.243
+    },
+    {
+     "w": "essential",
+     "start": 102.243,
+     "end": 102.683
+    },
+    {
+     "w": "when",
+     "start": 102.683,
+     "end": 102.883
+    },
+    {
+     "w": "interpreting",
+     "start": 102.883,
+     "end": 103.243
+    },
+    {
+     "w": "our",
+     "start": 103.243,
+     "end": 103.423
+    },
+    {
+     "w": "results.",
+     "start": 103.423,
+     "end": 103.875
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "plate": "dem-caveat",
+   "text": "Ultimately, our demographic analysis shows why population ageing alone could increase Singapore's dementia burden, even if prevalence within individual age groups declines.",
+   "start": 104.338,
+   "end": 112.6,
+   "words": [
+    {
+     "w": "Ultimately,",
+     "start": 104.338,
+     "end": 104.703
+    },
+    {
+     "w": "our",
+     "start": 105.043,
+     "end": 105.183
+    },
+    {
+     "w": "demographic",
+     "start": 105.183,
+     "end": 105.583
+    },
+    {
+     "w": "analysis",
+     "start": 105.583,
+     "end": 105.963
+    },
+    {
+     "w": "shows",
+     "start": 105.963,
+     "end": 106.323
+    },
+    {
+     "w": "why",
+     "start": 106.323,
+     "end": 106.663
+    },
+    {
+     "w": "population",
+     "start": 106.663,
+     "end": 107.123
+    },
+    {
+     "w": "ageing",
+     "start": 107.123,
+     "end": 107.436
+    },
+    {
+     "w": "alone",
+     "start": 107.463,
+     "end": 107.803
+    },
+    {
+     "w": "could",
+     "start": 107.803,
+     "end": 108.183
+    },
+    {
+     "w": "increase",
+     "start": 108.183,
+     "end": 108.523
+    },
+    {
+     "w": "Singapore's",
+     "start": 108.523,
+     "end": 109.003
+    },
+    {
+     "w": "dementia",
+     "start": 109.003,
+     "end": 109.203
+    },
+    {
+     "w": "burden,",
+     "start": 109.203,
+     "end": 109.603
+    },
+    {
+     "w": "even",
+     "start": 109.987,
+     "end": 110.203
+    },
+    {
+     "w": "if",
+     "start": 110.203,
+     "end": 110.343
+    },
+    {
+     "w": "prevalence",
+     "start": 110.343,
+     "end": 110.683
+    },
+    {
+     "w": "within",
+     "start": 110.683,
+     "end": 110.983
+    },
+    {
+     "w": "individual",
+     "start": 110.983,
+     "end": 111.443
+    },
+    {
+     "w": "age",
+     "start": 111.443,
+     "end": 111.683
+    },
+    {
+     "w": "groups",
+     "start": 111.683,
+     "end": 111.943
+    },
+    {
+     "w": "declines.",
+     "start": 111.943,
+     "end": 112.6
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "plate": "prev-define",
+   "text": "Now that we've seen how Singapore's population is ageing, let's look at how common dementia is among older adults.",
+   "start": 113.85,
+   "end": 119.212,
+   "words": [
+    {
+     "w": "Now",
+     "start": 113.85,
+     "end": 113.999
+    },
+    {
+     "w": "that",
+     "start": 113.999,
+     "end": 114.119
+    },
+    {
+     "w": "we've",
+     "start": 114.119,
+     "end": 114.299
+    },
+    {
+     "w": "seen",
+     "start": 114.299,
+     "end": 114.459
+    },
+    {
+     "w": "how",
+     "start": 114.459,
+     "end": 114.699
+    },
+    {
+     "w": "Singapore's",
+     "start": 114.699,
+     "end": 115.219
+    },
+    {
+     "w": "population",
+     "start": 115.219,
+     "end": 115.439
+    },
+    {
+     "w": "is",
+     "start": 115.439,
+     "end": 115.759
+    },
+    {
+     "w": "ageing,",
+     "start": 115.759,
+     "end": 116.551
+    },
+    {
+     "w": "let's",
+     "start": 116.619,
+     "end": 116.779
+    },
+    {
+     "w": "look",
+     "start": 116.779,
+     "end": 116.899
+    },
+    {
+     "w": "at",
+     "start": 116.899,
+     "end": 116.999
+    },
+    {
+     "w": "how",
+     "start": 116.999,
+     "end": 117.179
+    },
+    {
+     "w": "common",
+     "start": 117.179,
+     "end": 117.499
+    },
+    {
+     "w": "dementia",
+     "start": 117.499,
+     "end": 117.779
+    },
+    {
+     "w": "is",
+     "start": 117.779,
+     "end": 118.119
+    },
+    {
+     "w": "among",
+     "start": 118.119,
+     "end": 118.379
+    },
+    {
+     "w": "older",
+     "start": 118.379,
+     "end": 118.719
+    },
+    {
+     "w": "adults.",
+     "start": 118.719,
+     "end": 119.212
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "plate": "prev-define",
+   "text": "To investigate this, we used data from the Well-being of the Singapore Elderly, or WiSE, studies conducted in 2013 and 2023.",
+   "start": 119.66,
+   "end": 126.624,
+   "words": [
+    {
+     "w": "To",
+     "start": 119.66,
+     "end": 119.759
+    },
+    {
+     "w": "investigate",
+     "start": 119.759,
+     "end": 120.099
+    },
+    {
+     "w": "this,",
+     "start": 120.099,
+     "end": 120.419
+    },
+    {
+     "w": "we",
+     "start": 120.659,
+     "end": 120.759
+    },
+    {
+     "w": "used",
+     "start": 120.759,
+     "end": 120.959
+    },
+    {
+     "w": "data",
+     "start": 120.959,
+     "end": 121.179
+    },
+    {
+     "w": "from",
+     "start": 121.179,
+     "end": 121.399
+    },
+    {
+     "w": "the",
+     "start": 121.399,
+     "end": 121.539
+    },
+    {
+     "w": "Well-being",
+     "start": 121.539,
+     "end": 121.926
+    },
+    {
+     "w": "of",
+     "start": 121.959,
+     "end": 122.159
+    },
+    {
+     "w": "the",
+     "start": 122.159,
+     "end": 122.259
+    },
+    {
+     "w": "Singapore",
+     "start": 122.259,
+     "end": 122.619
+    },
+    {
+     "w": "Elderly,",
+     "start": 122.619,
+     "end": 123.119
+    },
+    {
+     "w": "or",
+     "start": 123.259,
+     "end": 123.379
+    },
+    {
+     "w": "WiSE,",
+     "start": 123.379,
+     "end": 123.799
+    },
+    {
+     "w": "studies",
+     "start": 124.239,
+     "end": 124.239
+    },
+    {
+     "w": "conducted",
+     "start": 124.239,
+     "end": 124.679
+    },
+    {
+     "w": "in",
+     "start": 124.679,
+     "end": 124.939
+    },
+    {
+     "w": "2013",
+     "start": 124.939,
+     "end": 125.379
+    },
+    {
+     "w": "and",
+     "start": 125.379,
+     "end": 125.799
+    },
+    {
+     "w": "2023.",
+     "start": 125.799,
+     "end": 126.624
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "plate": "prev-define",
+   "text": "These studies measured dementia prevalence, which refers to the percentage of people in a population living with dementia.",
+   "start": 127.333,
+   "end": 132.112,
+   "words": [
+    {
+     "w": "These",
+     "start": 127.333,
+     "end": 127.559
+    },
+    {
+     "w": "studies",
+     "start": 127.559,
+     "end": 127.799
+    },
+    {
+     "w": "measured",
+     "start": 127.799,
+     "end": 128.112
+    },
+    {
+     "w": "dementia",
+     "start": 128.139,
+     "end": 128.619
+    },
+    {
+     "w": "prevalence,",
+     "start": 128.619,
+     "end": 128.879
+    },
+    {
+     "w": "which",
+     "start": 129.219,
+     "end": 129.359
+    },
+    {
+     "w": "refers",
+     "start": 129.359,
+     "end": 129.599
+    },
+    {
+     "w": "to",
+     "start": 129.599,
+     "end": 129.779
+    },
+    {
+     "w": "the",
+     "start": 129.779,
+     "end": 129.839
+    },
+    {
+     "w": "percentage",
+     "start": 129.839,
+     "end": 130.099
+    },
+    {
+     "w": "of",
+     "start": 130.099,
+     "end": 130.359
+    },
+    {
+     "w": "people",
+     "start": 130.359,
+     "end": 130.499
+    },
+    {
+     "w": "in",
+     "start": 130.499,
+     "end": 130.659
+    },
+    {
+     "w": "a",
+     "start": 130.659,
+     "end": 130.739
+    },
+    {
+     "w": "population",
+     "start": 130.739,
+     "end": 131.139
+    },
+    {
+     "w": "living",
+     "start": 131.139,
+     "end": 131.459
+    },
+    {
+     "w": "with",
+     "start": 131.459,
+     "end": 131.699
+    },
+    {
+     "w": "dementia.",
+     "start": 131.699,
+     "end": 132.112
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "plate": "prev-overall",
+   "text": "Interestingly, overall dementia prevalence among adults aged 60 and above decreased from 10% in 2013 to 8.8% in 2023.",
+   "start": 133.362,
+   "end": 141.787,
+   "words": [
+    {
+     "w": "Interestingly,",
+     "start": 133.362,
+     "end": 133.825
+    },
+    {
+     "w": "overall",
+     "start": 134.345,
+     "end": 134.605
+    },
+    {
+     "w": "dementia",
+     "start": 134.605,
+     "end": 135.065
+    },
+    {
+     "w": "prevalence",
+     "start": 135.065,
+     "end": 135.425
+    },
+    {
+     "w": "among",
+     "start": 135.425,
+     "end": 135.665
+    },
+    {
+     "w": "adults",
+     "start": 135.665,
+     "end": 136.025
+    },
+    {
+     "w": "aged",
+     "start": 136.025,
+     "end": 136.245
+    },
+    {
+     "w": "60",
+     "start": 136.245,
+     "end": 136.705
+    },
+    {
+     "w": "and",
+     "start": 136.705,
+     "end": 136.805
+    },
+    {
+     "w": "above",
+     "start": 136.805,
+     "end": 137.105
+    },
+    {
+     "w": "decreased",
+     "start": 137.105,
+     "end": 137.785
+    },
+    {
+     "w": "from",
+     "start": 137.785,
+     "end": 138.085
+    },
+    {
+     "w": "10%",
+     "start": 138.085,
+     "end": 138.345
+    },
+    {
+     "w": "in",
+     "start": 138.585,
+     "end": 138.805
+    },
+    {
+     "w": "2013",
+     "start": 138.805,
+     "end": 139.285
+    },
+    {
+     "w": "to",
+     "start": 139.285,
+     "end": 139.885
+    },
+    {
+     "w": "8.8%",
+     "start": 139.885,
+     "end": 140.525
+    },
+    {
+     "w": "in",
+     "start": 140.825,
+     "end": 141.005
+    },
+    {
+     "w": "2023.",
+     "start": 141.005,
+     "end": 141.787
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "plate": "prev-overall",
+   "text": "But does this decline occur across all age groups?",
+   "start": 142.353,
+   "end": 144.568,
+   "words": [
+    {
+     "w": "But",
+     "start": 142.353,
+     "end": 142.465
+    },
+    {
+     "w": "does",
+     "start": 142.465,
+     "end": 142.665
+    },
+    {
+     "w": "this",
+     "start": 142.665,
+     "end": 142.825
+    },
+    {
+     "w": "decline",
+     "start": 142.825,
+     "end": 143.145
+    },
+    {
+     "w": "occur",
+     "start": 143.145,
+     "end": 143.445
+    },
+    {
+     "w": "across",
+     "start": 143.445,
+     "end": 143.705
+    },
+    {
+     "w": "all",
+     "start": 143.705,
+     "end": 144.005
+    },
+    {
+     "w": "age",
+     "start": 144.005,
+     "end": 144.185
+    },
+    {
+     "w": "groups?",
+     "start": 144.185,
+     "end": 144.568
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "plate": "prev-bands",
+   "text": "Among those aged 60 to 74, prevalence decreased from 3.4% to 3.0%.",
+   "start": 145.818,
+   "end": 151.883,
+   "words": [
+    {
+     "w": "Among",
+     "start": 145.818,
+     "end": 146.594
+    },
+    {
+     "w": "those",
+     "start": 146.594,
+     "end": 146.853
+    },
+    {
+     "w": "aged",
+     "start": 146.853,
+     "end": 147.094
+    },
+    {
+     "w": "60",
+     "start": 147.094,
+     "end": 147.534
+    },
+    {
+     "w": "to",
+     "start": 147.534,
+     "end": 147.674
+    },
+    {
+     "w": "74,",
+     "start": 147.674,
+     "end": 148.293
+    },
+    {
+     "w": "prevalence",
+     "start": 148.714,
+     "end": 148.834
+    },
+    {
+     "w": "decreased",
+     "start": 148.834,
+     "end": 149.293
+    },
+    {
+     "w": "from",
+     "start": 149.293,
+     "end": 149.513
+    },
+    {
+     "w": "3.4%",
+     "start": 149.513,
+     "end": 150.194
+    },
+    {
+     "w": "to",
+     "start": 150.454,
+     "end": 150.774
+    },
+    {
+     "w": "3.0%.",
+     "start": 150.774,
+     "end": 151.883
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "plate": "prev-bands",
+   "text": "For those aged 75 to 84, it decreased from 21.6% to 18.2%.",
+   "start": 152.649,
+   "end": 158.395,
+   "words": [
+    {
+     "w": "For",
+     "start": 152.649,
+     "end": 152.804
+    },
+    {
+     "w": "those",
+     "start": 152.804,
+     "end": 153.004
+    },
+    {
+     "w": "aged",
+     "start": 153.004,
+     "end": 153.263
+    },
+    {
+     "w": "75",
+     "start": 153.263,
+     "end": 153.864
+    },
+    {
+     "w": "to",
+     "start": 153.864,
+     "end": 154.064
+    },
+    {
+     "w": "84,",
+     "start": 154.064,
+     "end": 154.483
+    },
+    {
+     "w": "it",
+     "start": 154.944,
+     "end": 155.004
+    },
+    {
+     "w": "decreased",
+     "start": 155.004,
+     "end": 155.364
+    },
+    {
+     "w": "from",
+     "start": 155.364,
+     "end": 155.603
+    },
+    {
+     "w": "21.6%",
+     "start": 155.603,
+     "end": 156.564
+    },
+    {
+     "w": "to",
+     "start": 156.823,
+     "end": 157.184
+    },
+    {
+     "w": "18.2%.",
+     "start": 157.184,
+     "end": 158.395
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "plate": "prev-bands",
+   "text": "And among those aged 85 and above, it fell from 56.2% to 48.6%.",
+   "start": 159.054,
+   "end": 164.88,
+   "words": [
+    {
+     "w": "And",
+     "start": 159.054,
+     "end": 159.404
+    },
+    {
+     "w": "among",
+     "start": 159.404,
+     "end": 159.564
+    },
+    {
+     "w": "those",
+     "start": 159.564,
+     "end": 159.804
+    },
+    {
+     "w": "aged",
+     "start": 159.804,
+     "end": 160.084
+    },
+    {
+     "w": "85",
+     "start": 160.084,
+     "end": 160.603
+    },
+    {
+     "w": "and",
+     "start": 160.603,
+     "end": 160.744
+    },
+    {
+     "w": "above,",
+     "start": 160.744,
+     "end": 160.944
+    },
+    {
+     "w": "it",
+     "start": 161.344,
+     "end": 161.404
+    },
+    {
+     "w": "fell",
+     "start": 161.404,
+     "end": 161.584
+    },
+    {
+     "w": "from",
+     "start": 161.584,
+     "end": 161.804
+    },
+    {
+     "w": "56.2%",
+     "start": 161.804,
+     "end": 162.763
+    },
+    {
+     "w": "to",
+     "start": 163.103,
+     "end": 163.404
+    },
+    {
+     "w": "48.6%.",
+     "start": 163.404,
+     "end": 164.88
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "plate": "prev-bands",
+   "text": "Although prevalence decreased in every age group, the likelihood of living with dementia still increased sharply with age.",
+   "start": 165.419,
+   "end": 170.806,
+   "words": [
+    {
+     "w": "Although",
+     "start": 165.419,
+     "end": 165.624
+    },
+    {
+     "w": "prevalence",
+     "start": 165.624,
+     "end": 166.004
+    },
+    {
+     "w": "decreased",
+     "start": 166.004,
+     "end": 166.424
+    },
+    {
+     "w": "in",
+     "start": 166.424,
+     "end": 166.684
+    },
+    {
+     "w": "every",
+     "start": 166.684,
+     "end": 166.983
+    },
+    {
+     "w": "age",
+     "start": 166.983,
+     "end": 167.184
+    },
+    {
+     "w": "group,",
+     "start": 167.184,
+     "end": 167.424
+    },
+    {
+     "w": "the",
+     "start": 167.784,
+     "end": 167.844
+    },
+    {
+     "w": "likelihood",
+     "start": 167.844,
+     "end": 168.144
+    },
+    {
+     "w": "of",
+     "start": 168.144,
+     "end": 168.383
+    },
+    {
+     "w": "living",
+     "start": 168.383,
+     "end": 168.543
+    },
+    {
+     "w": "with",
+     "start": 168.543,
+     "end": 168.744
+    },
+    {
+     "w": "dementia",
+     "start": 168.744,
+     "end": 169.043
+    },
+    {
+     "w": "still",
+     "start": 169.043,
+     "end": 169.404
+    },
+    {
+     "w": "increased",
+     "start": 169.404,
+     "end": 169.823
+    },
+    {
+     "w": "sharply",
+     "start": 169.823,
+     "end": 170.263
+    },
+    {
+     "w": "with",
+     "start": 170.263,
+     "end": 170.464
+    },
+    {
+     "w": "age.",
+     "start": 170.464,
+     "end": 170.806
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "plate": "prev-signif",
+   "text": "Importantly, the overall decline was not statistically significant, with a p-value of 0.298. This means we cannot confidently conclude that the observed decrease reflects a genuine population-wide trend.",
+   "start": 172.056,
+   "end": 182.468,
+   "words": [
+    {
+     "w": "Importantly,",
+     "start": 172.056,
+     "end": 172.665
+    },
+    {
+     "w": "the",
+     "start": 172.925,
+     "end": 173.025
+    },
+    {
+     "w": "overall",
+     "start": 173.025,
+     "end": 173.365
+    },
+    {
+     "w": "decline",
+     "start": 173.365,
+     "end": 173.705
+    },
+    {
+     "w": "was",
+     "start": 173.705,
+     "end": 173.905
+    },
+    {
+     "w": "not",
+     "start": 173.905,
+     "end": 174.205
+    },
+    {
+     "w": "statistically",
+     "start": 174.205,
+     "end": 174.665
+    },
+    {
+     "w": "significant,",
+     "start": 174.665,
+     "end": 175.165
+    },
+    {
+     "w": "with",
+     "start": 175.285,
+     "end": 175.545
+    },
+    {
+     "w": "a",
+     "start": 175.545,
+     "end": 175.645
+    },
+    {
+     "w": "p-value",
+     "start": 175.645,
+     "end": 175.995
+    },
+    {
+     "w": "of",
+     "start": 176.025,
+     "end": 176.245
+    },
+    {
+     "w": "0.298.",
+     "start": 176.245,
+     "end": 177.085
+    },
+    {
+     "w": "This",
+     "start": 177.733,
+     "end": 177.865
+    },
+    {
+     "w": "means",
+     "start": 177.865,
+     "end": 178.045
+    },
+    {
+     "w": "we",
+     "start": 178.045,
+     "end": 178.225
+    },
+    {
+     "w": "cannot",
+     "start": 178.225,
+     "end": 178.485
+    },
+    {
+     "w": "confidently",
+     "start": 178.485,
+     "end": 178.965
+    },
+    {
+     "w": "conclude",
+     "start": 178.965,
+     "end": 179.425
+    },
+    {
+     "w": "that",
+     "start": 179.425,
+     "end": 179.645
+    },
+    {
+     "w": "the",
+     "start": 179.645,
+     "end": 179.745
+    },
+    {
+     "w": "observed",
+     "start": 179.745,
+     "end": 180.045
+    },
+    {
+     "w": "decrease",
+     "start": 180.045,
+     "end": 180.425
+    },
+    {
+     "w": "reflects",
+     "start": 180.425,
+     "end": 180.725
+    },
+    {
+     "w": "a",
+     "start": 180.725,
+     "end": 180.925
+    },
+    {
+     "w": "genuine",
+     "start": 180.925,
+     "end": 181.265
+    },
+    {
+     "w": "population-wide",
+     "start": 181.265,
+     "end": 181.965
+    },
+    {
+     "w": "trend.",
+     "start": 182.025,
+     "end": 182.468
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "plate": "prev-signif",
+   "text": "Therefore, we cannot assume dementia prevalence will continue declining at the same rate.",
+   "start": 182.937,
+   "end": 186.991,
+   "words": [
+    {
+     "w": "Therefore,",
+     "start": 182.937,
+     "end": 183.185
+    },
+    {
+     "w": "we",
+     "start": 183.565,
+     "end": 183.685
+    },
+    {
+     "w": "cannot",
+     "start": 183.685,
+     "end": 183.945
+    },
+    {
+     "w": "assume",
+     "start": 183.945,
+     "end": 184.305
+    },
+    {
+     "w": "dementia",
+     "start": 184.305,
+     "end": 184.625
+    },
+    {
+     "w": "prevalence",
+     "start": 184.625,
+     "end": 185.065
+    },
+    {
+     "w": "will",
+     "start": 185.065,
+     "end": 185.285
+    },
+    {
+     "w": "continue",
+     "start": 185.285,
+     "end": 185.645
+    },
+    {
+     "w": "declining",
+     "start": 185.645,
+     "end": 186.065
+    },
+    {
+     "w": "at",
+     "start": 186.065,
+     "end": 186.305
+    },
+    {
+     "w": "the",
+     "start": 186.305,
+     "end": 186.405
+    },
+    {
+     "w": "same",
+     "start": 186.405,
+     "end": 186.585
+    },
+    {
+     "w": "rate.",
+     "start": 186.585,
+     "end": 186.991
+    }
+   ]
+  },
+  {
+   "i": 23,
+   "plate": "prev-signif",
+   "text": "To account for this uncertainty, our model considers three possibilities: rates constant, decline continues, and half-pace decline.",
+   "start": 187.392,
+   "end": 194.017,
+   "words": [
+    {
+     "w": "To",
+     "start": 187.392,
+     "end": 187.485
+    },
+    {
+     "w": "account",
+     "start": 187.485,
+     "end": 187.705
+    },
+    {
+     "w": "for",
+     "start": 187.705,
+     "end": 187.885
+    },
+    {
+     "w": "this",
+     "start": 187.885,
+     "end": 187.985
+    },
+    {
+     "w": "uncertainty,",
+     "start": 187.985,
+     "end": 188.465
+    },
+    {
+     "w": "our",
+     "start": 188.885,
+     "end": 189.025
+    },
+    {
+     "w": "model",
+     "start": 189.025,
+     "end": 189.205
+    },
+    {
+     "w": "considers",
+     "start": 189.205,
+     "end": 189.585
+    },
+    {
+     "w": "three",
+     "start": 189.585,
+     "end": 189.945
+    },
+    {
+     "w": "possibilities:",
+     "start": 189.945,
+     "end": 190.465
+    },
+    {
+     "w": "rates",
+     "start": 191.085,
+     "end": 191.165
+    },
+    {
+     "w": "constant,",
+     "start": 191.165,
+     "end": 191.525
+    },
+    {
+     "w": "decline",
+     "start": 191.945,
+     "end": 192.165
+    },
+    {
+     "w": "continues,",
+     "start": 192.165,
+     "end": 192.605
+    },
+    {
+     "w": "and",
+     "start": 193.025,
+     "end": 193.125
+    },
+    {
+     "w": "half-pace",
+     "start": 193.125,
+     "end": 193.549
+    },
+    {
+     "w": "decline.",
+     "start": 193.585,
+     "end": 194.017
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "plate": "proj-method",
+   "text": "Now that we understand dementia prevalence, let's combine it with Singapore's ageing population to estimate future dementia cases.",
+   "start": 195.267,
+   "end": 201.411,
+   "words": [
+    {
+     "w": "Now",
+     "start": 195.267,
+     "end": 195.433
+    },
+    {
+     "w": "that",
+     "start": 195.433,
+     "end": 195.573
+    },
+    {
+     "w": "we",
+     "start": 195.573,
+     "end": 195.673
+    },
+    {
+     "w": "understand",
+     "start": 195.673,
+     "end": 196.113
+    },
+    {
+     "w": "dementia",
+     "start": 196.113,
+     "end": 196.393
+    },
+    {
+     "w": "prevalence,",
+     "start": 196.393,
+     "end": 196.873
+    },
+    {
+     "w": "let's",
+     "start": 197.373,
+     "end": 197.493
+    },
+    {
+     "w": "combine",
+     "start": 197.493,
+     "end": 197.793
+    },
+    {
+     "w": "it",
+     "start": 197.793,
+     "end": 197.973
+    },
+    {
+     "w": "with",
+     "start": 197.973,
+     "end": 198.173
+    },
+    {
+     "w": "Singapore's",
+     "start": 198.173,
+     "end": 198.713
+    },
+    {
+     "w": "ageing",
+     "start": 198.713,
+     "end": 198.897
+    },
+    {
+     "w": "population",
+     "start": 198.913,
+     "end": 199.393
+    },
+    {
+     "w": "to",
+     "start": 199.393,
+     "end": 199.833
+    },
+    {
+     "w": "estimate",
+     "start": 199.833,
+     "end": 200.153
+    },
+    {
+     "w": "future",
+     "start": 200.153,
+     "end": 200.573
+    },
+    {
+     "w": "dementia",
+     "start": 200.573,
+     "end": 200.893
+    },
+    {
+     "w": "cases.",
+     "start": 200.893,
+     "end": 201.411
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "plate": "proj-method",
+   "text": "Our calculation was straightforward: we multiplied the population in each age group by its dementia prevalence, then added the results together.",
+   "start": 201.931,
+   "end": 208.085,
+   "words": [
+    {
+     "w": "Our",
+     "start": 201.931,
+     "end": 202.053
+    },
+    {
+     "w": "calculation",
+     "start": 202.053,
+     "end": 202.433
+    },
+    {
+     "w": "was",
+     "start": 202.433,
+     "end": 202.693
+    },
+    {
+     "w": "straightforward:",
+     "start": 202.693,
+     "end": 203.013
+    },
+    {
+     "w": "we",
+     "start": 203.593,
+     "end": 203.673
+    },
+    {
+     "w": "multiplied",
+     "start": 203.673,
+     "end": 203.993
+    },
+    {
+     "w": "the",
+     "start": 203.993,
+     "end": 204.173
+    },
+    {
+     "w": "population",
+     "start": 204.173,
+     "end": 204.493
+    },
+    {
+     "w": "in",
+     "start": 204.493,
+     "end": 204.773
+    },
+    {
+     "w": "each",
+     "start": 204.773,
+     "end": 205.013
+    },
+    {
+     "w": "age",
+     "start": 205.013,
+     "end": 205.213
+    },
+    {
+     "w": "group",
+     "start": 205.213,
+     "end": 205.433
+    },
+    {
+     "w": "by",
+     "start": 205.433,
+     "end": 205.653
+    },
+    {
+     "w": "its",
+     "start": 205.653,
+     "end": 205.753
+    },
+    {
+     "w": "dementia",
+     "start": 205.753,
+     "end": 206.053
+    },
+    {
+     "w": "prevalence,",
+     "start": 206.053,
+     "end": 206.493
+    },
+    {
+     "w": "then",
+     "start": 206.793,
+     "end": 206.973
+    },
+    {
+     "w": "added",
+     "start": 206.973,
+     "end": 207.253
+    },
+    {
+     "w": "the",
+     "start": 207.253,
+     "end": 207.373
+    },
+    {
+     "w": "results",
+     "start": 207.373,
+     "end": 207.573
+    },
+    {
+     "w": "together.",
+     "start": 207.573,
+     "end": 208.085
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "plate": "proj-scenarios",
+   "text": "However, because future dementia prevalence is uncertain, we developed three different scenarios.",
+   "start": 209.335,
+   "end": 214.118,
+   "words": [
+    {
+     "w": "However,",
+     "start": 209.335,
+     "end": 209.613
+    },
+    {
+     "w": "because",
+     "start": 210.133,
+     "end": 210.253
+    },
+    {
+     "w": "future",
+     "start": 210.253,
+     "end": 210.593
+    },
+    {
+     "w": "dementia",
+     "start": 210.593,
+     "end": 210.893
+    },
+    {
+     "w": "prevalence",
+     "start": 210.893,
+     "end": 211.273
+    },
+    {
+     "w": "is",
+     "start": 211.273,
+     "end": 211.473
+    },
+    {
+     "w": "uncertain,",
+     "start": 211.473,
+     "end": 211.893
+    },
+    {
+     "w": "we",
+     "start": 212.449,
+     "end": 212.513
+    },
+    {
+     "w": "developed",
+     "start": 212.513,
+     "end": 212.773
+    },
+    {
+     "w": "three",
+     "start": 212.773,
+     "end": 213.133
+    },
+    {
+     "w": "different",
+     "start": 213.133,
+     "end": 213.513
+    },
+    {
+     "w": "scenarios.",
+     "start": 213.513,
+     "end": 214.118
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "plate": "proj-scenarios",
+   "text": "In the first scenario, rates constant, dementia prevalence stays at its 2023 level.",
+   "start": 214.613,
+   "end": 219.538,
+   "words": [
+    {
+     "w": "In",
+     "start": 214.613,
+     "end": 215.053
+    },
+    {
+     "w": "the",
+     "start": 215.053,
+     "end": 215.173
+    },
+    {
+     "w": "first",
+     "start": 215.173,
+     "end": 215.353
+    },
+    {
+     "w": "scenario,",
+     "start": 215.353,
+     "end": 215.793
+    },
+    {
+     "w": "rates",
+     "start": 216.173,
+     "end": 216.273
+    },
+    {
+     "w": "constant,",
+     "start": 216.273,
+     "end": 216.793
+    },
+    {
+     "w": "dementia",
+     "start": 217.253,
+     "end": 217.353
+    },
+    {
+     "w": "prevalence",
+     "start": 217.353,
+     "end": 217.713
+    },
+    {
+     "w": "stays",
+     "start": 217.713,
+     "end": 218.093
+    },
+    {
+     "w": "at",
+     "start": 218.093,
+     "end": 218.313
+    },
+    {
+     "w": "its",
+     "start": 218.313,
+     "end": 218.433
+    },
+    {
+     "w": "2023",
+     "start": 218.433,
+     "end": 219.113
+    },
+    {
+     "w": "level.",
+     "start": 219.113,
+     "end": 219.538
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "plate": "proj-scenarios",
+   "text": "In the second, decline continues, the reductions observed between 2013 and 2023 continue at the same annual pace.",
+   "start": 220.197,
+   "end": 227.478,
+   "words": [
+    {
+     "w": "In",
+     "start": 220.197,
+     "end": 220.653
+    },
+    {
+     "w": "the",
+     "start": 220.653,
+     "end": 220.773
+    },
+    {
+     "w": "second,",
+     "start": 220.773,
+     "end": 221.033
+    },
+    {
+     "w": "decline",
+     "start": 221.373,
+     "end": 221.673
+    },
+    {
+     "w": "continues,",
+     "start": 221.673,
+     "end": 222.193
+    },
+    {
+     "w": "the",
+     "start": 222.705,
+     "end": 222.773
+    },
+    {
+     "w": "reductions",
+     "start": 222.773,
+     "end": 223.053
+    },
+    {
+     "w": "observed",
+     "start": 223.053,
+     "end": 223.533
+    },
+    {
+     "w": "between",
+     "start": 223.533,
+     "end": 223.833
+    },
+    {
+     "w": "2013",
+     "start": 223.833,
+     "end": 224.353
+    },
+    {
+     "w": "and",
+     "start": 224.353,
+     "end": 224.733
+    },
+    {
+     "w": "2023",
+     "start": 224.733,
+     "end": 225.493
+    },
+    {
+     "w": "continue",
+     "start": 225.493,
+     "end": 226.053
+    },
+    {
+     "w": "at",
+     "start": 226.053,
+     "end": 226.353
+    },
+    {
+     "w": "the",
+     "start": 226.353,
+     "end": 226.473
+    },
+    {
+     "w": "same",
+     "start": 226.473,
+     "end": 226.733
+    },
+    {
+     "w": "annual",
+     "start": 226.733,
+     "end": 227.053
+    },
+    {
+     "w": "pace.",
+     "start": 227.053,
+     "end": 227.478
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "plate": "proj-scenarios",
+   "text": "In the third, half-pace decline, prevalence continues decreasing, but at half the historical pace.",
+   "start": 228,
+   "end": 233.541,
+   "words": [
+    {
+     "w": "In",
+     "start": 228,
+     "end": 228.453
+    },
+    {
+     "w": "the",
+     "start": 228.453,
+     "end": 228.593
+    },
+    {
+     "w": "third,",
+     "start": 228.593,
+     "end": 228.873
+    },
+    {
+     "w": "half-pace",
+     "start": 228.873,
+     "end": 229.535
+    },
+    {
+     "w": "decline,",
+     "start": 229.593,
+     "end": 229.953
+    },
+    {
+     "w": "prevalence",
+     "start": 230.473,
+     "end": 230.633
+    },
+    {
+     "w": "continues",
+     "start": 230.633,
+     "end": 231.153
+    },
+    {
+     "w": "decreasing,",
+     "start": 231.153,
+     "end": 231.633
+    },
+    {
+     "w": "but",
+     "start": 231.853,
+     "end": 231.993
+    },
+    {
+     "w": "at",
+     "start": 231.993,
+     "end": 232.113
+    },
+    {
+     "w": "half",
+     "start": 232.113,
+     "end": 232.393
+    },
+    {
+     "w": "the",
+     "start": 232.393,
+     "end": 232.553
+    },
+    {
+     "w": "historical",
+     "start": 232.553,
+     "end": 232.873
+    },
+    {
+     "w": "pace.",
+     "start": 232.873,
+     "end": 233.541
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "plate": "proj-2030",
+   "text": "All three scenarios begin with 96,694 modelled dementia cases in 2023.",
+   "start": 234.791,
+   "end": 240.034,
+   "words": [
+    {
+     "w": "All",
+     "start": 234.791,
+     "end": 234.942
+    },
+    {
+     "w": "three",
+     "start": 234.942,
+     "end": 235.182
+    },
+    {
+     "w": "scenarios",
+     "start": 235.182,
+     "end": 235.622
+    },
+    {
+     "w": "begin",
+     "start": 235.622,
+     "end": 235.902
+    },
+    {
+     "w": "with",
+     "start": 235.902,
+     "end": 236.082
+    },
+    {
+     "w": "96,694",
+     "start": 236.082,
+     "end": 237.642
+    },
+    {
+     "w": "modelled",
+     "start": 237.642,
+     "end": 238.212
+    },
+    {
+     "w": "dementia",
+     "start": 238.262,
+     "end": 238.682
+    },
+    {
+     "w": "cases",
+     "start": 238.682,
+     "end": 238.902
+    },
+    {
+     "w": "in",
+     "start": 238.902,
+     "end": 239.202
+    },
+    {
+     "w": "2023.",
+     "start": 239.202,
+     "end": 240.034
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "plate": "proj-2030",
+   "text": "By 2030, rates constant projects 137,087 cases, decline continues projects 123,177, and half-pace decline projects 129,970.",
+   "start": 240.762,
+   "end": 253.046,
+   "words": [
+    {
+     "w": "By",
+     "start": 240.762,
+     "end": 240.842
+    },
+    {
+     "w": "2030,",
+     "start": 240.842,
+     "end": 241.382
+    },
+    {
+     "w": "rates",
+     "start": 241.882,
+     "end": 241.982
+    },
+    {
+     "w": "constant",
+     "start": 241.982,
+     "end": 242.382
+    },
+    {
+     "w": "projects",
+     "start": 242.382,
+     "end": 242.802
+    },
+    {
+     "w": "137,087",
+     "start": 242.802,
+     "end": 245.162
+    },
+    {
+     "w": "cases,",
+     "start": 245.162,
+     "end": 245.162
+    },
+    {
+     "w": "decline",
+     "start": 245.529,
+     "end": 245.842
+    },
+    {
+     "w": "continues",
+     "start": 245.842,
+     "end": 246.442
+    },
+    {
+     "w": "projects",
+     "start": 246.442,
+     "end": 246.722
+    },
+    {
+     "w": "123,177,",
+     "start": 246.722,
+     "end": 248.682
+    },
+    {
+     "w": "and",
+     "start": 248.682,
+     "end": 249.622
+    },
+    {
+     "w": "half-pace",
+     "start": 249.622,
+     "end": 250.064
+    },
+    {
+     "w": "decline",
+     "start": 250.102,
+     "end": 250.482
+    },
+    {
+     "w": "projects",
+     "start": 250.482,
+     "end": 250.782
+    },
+    {
+     "w": "129,970.",
+     "start": 250.782,
+     "end": 253.046
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "plate": "proj-2030",
+   "text": "Despite declining prevalence in two scenarios, the total number of cases still increases because of population ageing.",
+   "start": 253.74,
+   "end": 259.234,
+   "words": [
+    {
+     "w": "Despite",
+     "start": 253.74,
+     "end": 254.042
+    },
+    {
+     "w": "declining",
+     "start": 254.042,
+     "end": 254.462
+    },
+    {
+     "w": "prevalence",
+     "start": 254.462,
+     "end": 254.822
+    },
+    {
+     "w": "in",
+     "start": 254.822,
+     "end": 255.042
+    },
+    {
+     "w": "two",
+     "start": 255.042,
+     "end": 255.282
+    },
+    {
+     "w": "scenarios,",
+     "start": 255.282,
+     "end": 255.682
+    },
+    {
+     "w": "the",
+     "start": 256.142,
+     "end": 256.182
+    },
+    {
+     "w": "total",
+     "start": 256.182,
+     "end": 256.422
+    },
+    {
+     "w": "number",
+     "start": 256.422,
+     "end": 256.622
+    },
+    {
+     "w": "of",
+     "start": 256.622,
+     "end": 256.782
+    },
+    {
+     "w": "cases",
+     "start": 256.782,
+     "end": 257.002
+    },
+    {
+     "w": "still",
+     "start": 257.002,
+     "end": 257.382
+    },
+    {
+     "w": "increases",
+     "start": 257.382,
+     "end": 257.842
+    },
+    {
+     "w": "because",
+     "start": 257.842,
+     "end": 258.262
+    },
+    {
+     "w": "of",
+     "start": 258.262,
+     "end": 258.402
+    },
+    {
+     "w": "population",
+     "start": 258.402,
+     "end": 258.742
+    },
+    {
+     "w": "ageing.",
+     "start": 258.742,
+     "end": 259.234
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "plate": "proj-2050",
+   "text": "By 2050, the differences become even larger.",
+   "start": 260.484,
+   "end": 263.265,
+   "words": [
+    {
+     "w": "By",
+     "start": 260.484,
+     "end": 260.587
+    },
+    {
+     "w": "2050,",
+     "start": 260.587,
+     "end": 261.167
+    },
+    {
+     "w": "the",
+     "start": 261.587,
+     "end": 261.667
+    },
+    {
+     "w": "differences",
+     "start": 261.667,
+     "end": 261.987
+    },
+    {
+     "w": "become",
+     "start": 261.987,
+     "end": 262.347
+    },
+    {
+     "w": "even",
+     "start": 262.347,
+     "end": 262.707
+    },
+    {
+     "w": "larger.",
+     "start": 262.707,
+     "end": 263.265
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "plate": "proj-2050",
+   "text": "Rates constant reaches 295,653 cases, decline continues reaches 196,615, and half-pace decline reaches 241,237.",
+   "start": 263.775,
+   "end": 275.73,
+   "words": [
+    {
+     "w": "Rates",
+     "start": 263.775,
+     "end": 264.007
+    },
+    {
+     "w": "constant",
+     "start": 264.007,
+     "end": 264.407
+    },
+    {
+     "w": "reaches",
+     "start": 264.407,
+     "end": 264.767
+    },
+    {
+     "w": "295,653",
+     "start": 264.767,
+     "end": 266.787
+    },
+    {
+     "w": "cases,",
+     "start": 266.787,
+     "end": 267.727
+    },
+    {
+     "w": "decline",
+     "start": 268.127,
+     "end": 268.347
+    },
+    {
+     "w": "continues",
+     "start": 268.347,
+     "end": 268.847
+    },
+    {
+     "w": "reaches",
+     "start": 268.847,
+     "end": 269.327
+    },
+    {
+     "w": "196,615,",
+     "start": 269.327,
+     "end": 271.227
+    },
+    {
+     "w": "and",
+     "start": 271.998,
+     "end": 272.127
+    },
+    {
+     "w": "half-pace",
+     "start": 272.127,
+     "end": 272.513
+    },
+    {
+     "w": "decline",
+     "start": 272.547,
+     "end": 272.887
+    },
+    {
+     "w": "reaches",
+     "start": 272.887,
+     "end": 273.307
+    },
+    {
+     "w": "241,237.",
+     "start": 273.307,
+     "end": 275.73
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "plate": "proj-moh",
+   "text": "To assess our projections, we compared them with the Ministry of Health's published estimate of 152,000 cases by 2030.",
+   "start": 276.98,
+   "end": 283.261,
+   "words": [
+    {
+     "w": "To",
+     "start": 276.98,
+     "end": 277.087
+    },
+    {
+     "w": "assess",
+     "start": 277.087,
+     "end": 277.307
+    },
+    {
+     "w": "our",
+     "start": 277.307,
+     "end": 277.467
+    },
+    {
+     "w": "projections,",
+     "start": 277.467,
+     "end": 277.887
+    },
+    {
+     "w": "we",
+     "start": 278.267,
+     "end": 278.347
+    },
+    {
+     "w": "compared",
+     "start": 278.347,
+     "end": 278.607
+    },
+    {
+     "w": "them",
+     "start": 278.607,
+     "end": 278.807
+    },
+    {
+     "w": "with",
+     "start": 278.807,
+     "end": 278.947
+    },
+    {
+     "w": "the",
+     "start": 278.947,
+     "end": 279.047
+    },
+    {
+     "w": "Ministry",
+     "start": 279.047,
+     "end": 279.247
+    },
+    {
+     "w": "of",
+     "start": 279.247,
+     "end": 279.427
+    },
+    {
+     "w": "Health's",
+     "start": 279.427,
+     "end": 279.747
+    },
+    {
+     "w": "published",
+     "start": 279.747,
+     "end": 279.987
+    },
+    {
+     "w": "estimate",
+     "start": 279.987,
+     "end": 280.387
+    },
+    {
+     "w": "of",
+     "start": 280.387,
+     "end": 280.687
+    },
+    {
+     "w": "152,000",
+     "start": 280.687,
+     "end": 282.067
+    },
+    {
+     "w": "cases",
+     "start": 282.067,
+     "end": 282.367
+    },
+    {
+     "w": "by",
+     "start": 282.367,
+     "end": 282.627
+    },
+    {
+     "w": "2030.",
+     "start": 282.627,
+     "end": 283.261
+    }
+   ]
+  },
+  {
+   "i": 36,
+   "plate": "proj-moh",
+   "text": "All three projections fall below this estimate, with rates constant coming closest.",
+   "start": 283.849,
+   "end": 287.524,
+   "words": [
+    {
+     "w": "All",
+     "start": 283.849,
+     "end": 284.007
+    },
+    {
+     "w": "three",
+     "start": 284.007,
+     "end": 284.287
+    },
+    {
+     "w": "projections",
+     "start": 284.287,
+     "end": 284.667
+    },
+    {
+     "w": "fall",
+     "start": 284.667,
+     "end": 284.927
+    },
+    {
+     "w": "below",
+     "start": 284.927,
+     "end": 285.207
+    },
+    {
+     "w": "this",
+     "start": 285.207,
+     "end": 285.407
+    },
+    {
+     "w": "estimate,",
+     "start": 285.407,
+     "end": 285.707
+    },
+    {
+     "w": "with",
+     "start": 285.927,
+     "end": 286.127
+    },
+    {
+     "w": "rates",
+     "start": 286.127,
+     "end": 286.307
+    },
+    {
+     "w": "constant",
+     "start": 286.307,
+     "end": 286.707
+    },
+    {
+     "w": "coming",
+     "start": 286.707,
+     "end": 287.007
+    },
+    {
+     "w": "closest.",
+     "start": 287.007,
+     "end": 287.524
+    }
+   ]
+  },
+  {
+   "i": 37,
+   "plate": "proj-moh",
+   "text": "However, our 2023 starting point is already higher than the survey's own published count of 73,918, so these comparisons cannot be treated as formal validation.",
+   "start": 288.201,
+   "end": 297.801,
+   "words": [
+    {
+     "w": "However,",
+     "start": 288.201,
+     "end": 288.487
+    },
+    {
+     "w": "our",
+     "start": 288.827,
+     "end": 289.067
+    },
+    {
+     "w": "2023",
+     "start": 289.067,
+     "end": 289.827
+    },
+    {
+     "w": "starting",
+     "start": 289.827,
+     "end": 290.107
+    },
+    {
+     "w": "point",
+     "start": 290.107,
+     "end": 290.427
+    },
+    {
+     "w": "is",
+     "start": 290.427,
+     "end": 290.687
+    },
+    {
+     "w": "already",
+     "start": 290.687,
+     "end": 291.007
+    },
+    {
+     "w": "higher",
+     "start": 291.007,
+     "end": 291.327
+    },
+    {
+     "w": "than",
+     "start": 291.327,
+     "end": 291.527
+    },
+    {
+     "w": "the",
+     "start": 291.527,
+     "end": 291.647
+    },
+    {
+     "w": "survey's",
+     "start": 291.647,
+     "end": 292.007
+    },
+    {
+     "w": "own",
+     "start": 292.007,
+     "end": 292.227
+    },
+    {
+     "w": "published",
+     "start": 292.227,
+     "end": 292.527
+    },
+    {
+     "w": "count",
+     "start": 292.527,
+     "end": 292.767
+    },
+    {
+     "w": "of",
+     "start": 292.767,
+     "end": 292.927
+    },
+    {
+     "w": "73,918,",
+     "start": 292.927,
+     "end": 294.567
+    },
+    {
+     "w": "so",
+     "start": 294.967,
+     "end": 295.327
+    },
+    {
+     "w": "these",
+     "start": 295.327,
+     "end": 295.567
+    },
+    {
+     "w": "comparisons",
+     "start": 295.567,
+     "end": 295.987
+    },
+    {
+     "w": "cannot",
+     "start": 295.987,
+     "end": 296.307
+    },
+    {
+     "w": "be",
+     "start": 296.307,
+     "end": 296.487
+    },
+    {
+     "w": "treated",
+     "start": 296.487,
+     "end": 296.727
+    },
+    {
+     "w": "as",
+     "start": 296.727,
+     "end": 296.927
+    },
+    {
+     "w": "formal",
+     "start": 296.927,
+     "end": 297.167
+    },
+    {
+     "w": "validation.",
+     "start": 297.167,
+     "end": 297.801
+    }
+   ]
+  },
+  {
+   "i": 38,
+   "plate": "proj-close",
+   "text": "Our results are therefore scenarios rather than guaranteed predictions, illustrating how assumptions influence future dementia estimates.",
+   "start": 299.051,
+   "end": 305.15,
+   "words": [
+    {
+     "w": "Our",
+     "start": 299.051,
+     "end": 299.188
+    },
+    {
+     "w": "results",
+     "start": 299.188,
+     "end": 299.468
+    },
+    {
+     "w": "are",
+     "start": 299.468,
+     "end": 299.668
+    },
+    {
+     "w": "therefore",
+     "start": 299.668,
+     "end": 299.968
+    },
+    {
+     "w": "scenarios",
+     "start": 299.968,
+     "end": 300.528
+    },
+    {
+     "w": "rather",
+     "start": 300.528,
+     "end": 300.968
+    },
+    {
+     "w": "than",
+     "start": 300.968,
+     "end": 301.228
+    },
+    {
+     "w": "guaranteed",
+     "start": 301.228,
+     "end": 301.488
+    },
+    {
+     "w": "predictions,",
+     "start": 301.488,
+     "end": 302.088
+    },
+    {
+     "w": "illustrating",
+     "start": 302.442,
+     "end": 302.708
+    },
+    {
+     "w": "how",
+     "start": 302.708,
+     "end": 303.028
+    },
+    {
+     "w": "assumptions",
+     "start": 303.028,
+     "end": 303.388
+    },
+    {
+     "w": "influence",
+     "start": 303.388,
+     "end": 303.968
+    },
+    {
+     "w": "future",
+     "start": 303.968,
+     "end": 304.288
+    },
+    {
+     "w": "dementia",
+     "start": 304.288,
+     "end": 304.548
+    },
+    {
+     "w": "estimates.",
+     "start": 304.548,
+     "end": 305.15
+    }
+   ]
+  },
+  {
+   "i": 39,
+   "plate": "proj-close",
+   "text": "Next, we examine whether increasing physical activity could help reduce this future burden.",
+   "start": 305.682,
+   "end": 309.792,
+   "words": [
+    {
+     "w": "Next,",
+     "start": 305.682,
+     "end": 305.928
+    },
+    {
+     "w": "we",
+     "start": 306.188,
+     "end": 306.348
+    },
+    {
+     "w": "examine",
+     "start": 306.348,
+     "end": 306.608
+    },
+    {
+     "w": "whether",
+     "start": 306.608,
+     "end": 306.848
+    },
+    {
+     "w": "increasing",
+     "start": 306.848,
+     "end": 307.288
+    },
+    {
+     "w": "physical",
+     "start": 307.288,
+     "end": 307.668
+    },
+    {
+     "w": "activity",
+     "start": 307.668,
+     "end": 308.188
+    },
+    {
+     "w": "could",
+     "start": 308.188,
+     "end": 308.428
+    },
+    {
+     "w": "help",
+     "start": 308.428,
+     "end": 308.588
+    },
+    {
+     "w": "reduce",
+     "start": 308.588,
+     "end": 308.928
+    },
+    {
+     "w": "this",
+     "start": 308.928,
+     "end": 309.168
+    },
+    {
+     "w": "future",
+     "start": 309.168,
+     "end": 309.408
+    },
+    {
+     "w": "burden.",
+     "start": 309.408,
+     "end": 309.792
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "plate": "pa-risk",
+   "text": "Physical inactivity is a potentially modifiable dementia risk factor. A systematic review and meta-analysis found that higher physical activity was associated with about a 20 per cent lower risk of dementia.",
+   "start": 311.042,
+   "end": 321.169,
+   "words": [
+    {
+     "w": "Physical",
+     "start": 311.042,
+     "end": 311.368
+    },
+    {
+     "w": "inactivity",
+     "start": 311.368,
+     "end": 311.848
+    },
+    {
+     "w": "is",
+     "start": 311.848,
+     "end": 312.228
+    },
+    {
+     "w": "a",
+     "start": 312.228,
+     "end": 312.308
+    },
+    {
+     "w": "potentially",
+     "start": 312.308,
+     "end": 312.668
+    },
+    {
+     "w": "modifiable",
+     "start": 312.668,
+     "end": 313.328
+    },
+    {
+     "w": "dementia",
+     "start": 313.328,
+     "end": 313.628
+    },
+    {
+     "w": "risk",
+     "start": 313.628,
+     "end": 313.968
+    },
+    {
+     "w": "factor.",
+     "start": 313.968,
+     "end": 314.328
+    },
+    {
+     "w": "A",
+     "start": 314.843,
+     "end": 314.928
+    },
+    {
+     "w": "systematic",
+     "start": 314.928,
+     "end": 315.228
+    },
+    {
+     "w": "review",
+     "start": 315.228,
+     "end": 315.608
+    },
+    {
+     "w": "and",
+     "start": 315.608,
+     "end": 315.828
+    },
+    {
+     "w": "meta-analysis",
+     "start": 315.828,
+     "end": 316.38
+    },
+    {
+     "w": "found",
+     "start": 316.428,
+     "end": 316.848
+    },
+    {
+     "w": "that",
+     "start": 316.848,
+     "end": 317.008
+    },
+    {
+     "w": "higher",
+     "start": 317.008,
+     "end": 317.308
+    },
+    {
+     "w": "physical",
+     "start": 317.308,
+     "end": 317.548
+    },
+    {
+     "w": "activity",
+     "start": 317.548,
+     "end": 318.088
+    },
+    {
+     "w": "was",
+     "start": 318.088,
+     "end": 318.428
+    },
+    {
+     "w": "associated",
+     "start": 318.428,
+     "end": 318.808
+    },
+    {
+     "w": "with",
+     "start": 318.808,
+     "end": 319.088
+    },
+    {
+     "w": "about",
+     "start": 319.088,
+     "end": 319.248
+    },
+    {
+     "w": "a",
+     "start": 319.248,
+     "end": 319.428
+    },
+    {
+     "w": "20",
+     "start": 319.428,
+     "end": 319.728
+    },
+    {
+     "w": "per",
+     "start": 319.728,
+     "end": 319.811
+    },
+    {
+     "w": "cent",
+     "start": 319.818,
+     "end": 319.919
+    },
+    {
+     "w": "lower",
+     "start": 319.928,
+     "end": 320.308
+    },
+    {
+     "w": "risk",
+     "start": 320.308,
+     "end": 320.608
+    },
+    {
+     "w": "of",
+     "start": 320.608,
+     "end": 320.728
+    },
+    {
+     "w": "dementia.",
+     "start": 320.728,
+     "end": 321.169
+    }
+   ]
+  },
+  {
+   "i": 41,
+   "plate": "pa-paf",
+   "text": "To assess its potential impact on Singapore's future dementia burden, we used physical activity data from the National Population Health Survey: 19.7 per cent of adults aged 60 to 74 are insufficiently active.",
+   "start": 322.419,
+   "end": 333.014,
+   "words": [
+    {
+     "w": "To",
+     "start": 322.419,
+     "end": 322.513
+    },
+    {
+     "w": "assess",
+     "start": 322.513,
+     "end": 322.753
+    },
+    {
+     "w": "its",
+     "start": 322.753,
+     "end": 322.913
+    },
+    {
+     "w": "potential",
+     "start": 322.913,
+     "end": 323.213
+    },
+    {
+     "w": "impact",
+     "start": 323.213,
+     "end": 323.633
+    },
+    {
+     "w": "on",
+     "start": 323.633,
+     "end": 323.833
+    },
+    {
+     "w": "Singapore's",
+     "start": 323.833,
+     "end": 324.273
+    },
+    {
+     "w": "future",
+     "start": 324.273,
+     "end": 324.473
+    },
+    {
+     "w": "dementia",
+     "start": 324.473,
+     "end": 324.793
+    },
+    {
+     "w": "burden,",
+     "start": 324.793,
+     "end": 325.153
+    },
+    {
+     "w": "we",
+     "start": 325.553,
+     "end": 325.573
+    },
+    {
+     "w": "used",
+     "start": 325.573,
+     "end": 325.793
+    },
+    {
+     "w": "physical",
+     "start": 325.793,
+     "end": 326.093
+    },
+    {
+     "w": "activity",
+     "start": 326.093,
+     "end": 326.453
+    },
+    {
+     "w": "data",
+     "start": 326.453,
+     "end": 326.713
+    },
+    {
+     "w": "from",
+     "start": 326.713,
+     "end": 326.933
+    },
+    {
+     "w": "the",
+     "start": 326.933,
+     "end": 327.053
+    },
+    {
+     "w": "National",
+     "start": 327.053,
+     "end": 327.273
+    },
+    {
+     "w": "Population",
+     "start": 327.273,
+     "end": 327.593
+    },
+    {
+     "w": "Health",
+     "start": 327.593,
+     "end": 328.013
+    },
+    {
+     "w": "Survey:",
+     "start": 328.013,
+     "end": 328.353
+    },
+    {
+     "w": "19.7",
+     "start": 328.833,
+     "end": 329.593
+    },
+    {
+     "w": "per",
+     "start": 329.593,
+     "end": 329.709
+    },
+    {
+     "w": "cent",
+     "start": 329.719,
+     "end": 329.861
+    },
+    {
+     "w": "of",
+     "start": 329.873,
+     "end": 329.993
+    },
+    {
+     "w": "adults",
+     "start": 329.993,
+     "end": 330.333
+    },
+    {
+     "w": "aged",
+     "start": 330.333,
+     "end": 330.513
+    },
+    {
+     "w": "60",
+     "start": 330.513,
+     "end": 330.973
+    },
+    {
+     "w": "to",
+     "start": 330.973,
+     "end": 331.073
+    },
+    {
+     "w": "74",
+     "start": 331.073,
+     "end": 331.533
+    },
+    {
+     "w": "are",
+     "start": 331.533,
+     "end": 331.913
+    },
+    {
+     "w": "insufficiently",
+     "start": 331.913,
+     "end": 332.573
+    },
+    {
+     "w": "active.",
+     "start": 332.573,
+     "end": 333.014
+    }
+   ]
+  },
+  {
+   "i": 42,
+   "plate": "pa-paf",
+   "text": "We calculated the Population Attributable Fraction to estimate the proportion of dementia cases attributable to physical inactivity, which was about 4.7 per cent.",
+   "start": 333.498,
+   "end": 341.67,
+   "words": [
+    {
+     "w": "We",
+     "start": 333.498,
+     "end": 333.613
+    },
+    {
+     "w": "calculated",
+     "start": 333.613,
+     "end": 333.993
+    },
+    {
+     "w": "the",
+     "start": 333.993,
+     "end": 334.213
+    },
+    {
+     "w": "Population",
+     "start": 334.213,
+     "end": 334.633
+    },
+    {
+     "w": "Attributable",
+     "start": 334.633,
+     "end": 335.093
+    },
+    {
+     "w": "Fraction",
+     "start": 335.093,
+     "end": 335.533
+    },
+    {
+     "w": "to",
+     "start": 335.533,
+     "end": 335.873
+    },
+    {
+     "w": "estimate",
+     "start": 335.873,
+     "end": 336.173
+    },
+    {
+     "w": "the",
+     "start": 336.173,
+     "end": 336.333
+    },
+    {
+     "w": "proportion",
+     "start": 336.333,
+     "end": 336.693
+    },
+    {
+     "w": "of",
+     "start": 336.693,
+     "end": 336.873
+    },
+    {
+     "w": "dementia",
+     "start": 336.873,
+     "end": 337.133
+    },
+    {
+     "w": "cases",
+     "start": 337.133,
+     "end": 337.573
+    },
+    {
+     "w": "attributable",
+     "start": 337.573,
+     "end": 338.013
+    },
+    {
+     "w": "to",
+     "start": 338.013,
+     "end": 338.333
+    },
+    {
+     "w": "physical",
+     "start": 338.333,
+     "end": 338.653
+    },
+    {
+     "w": "inactivity,",
+     "start": 338.653,
+     "end": 339.193
+    },
+    {
+     "w": "which",
+     "start": 339.533,
+     "end": 339.653
+    },
+    {
+     "w": "was",
+     "start": 339.653,
+     "end": 339.773
+    },
+    {
+     "w": "about",
+     "start": 339.773,
+     "end": 339.953
+    },
+    {
+     "w": "4.7",
+     "start": 339.953,
+     "end": 340.753
+    },
+    {
+     "w": "per",
+     "start": 340.753,
+     "end": 341.15
+    },
+    {
+     "w": "cent.",
+     "start": 341.185,
+     "end": 341.67
+    }
+   ]
+  },
+  {
+   "i": 43,
+   "plate": "pa-pif",
+   "text": "To estimate how many cases could be avoided under three scenarios for reducing inactivity, we used the Potential Impact Fraction.",
+   "start": 342.92,
+   "end": 348.99,
+   "words": [
+    {
+     "w": "To",
+     "start": 342.92,
+     "end": 343.041
+    },
+    {
+     "w": "estimate",
+     "start": 343.041,
+     "end": 343.301
+    },
+    {
+     "w": "how",
+     "start": 343.301,
+     "end": 343.621
+    },
+    {
+     "w": "many",
+     "start": 343.621,
+     "end": 343.801
+    },
+    {
+     "w": "cases",
+     "start": 343.801,
+     "end": 344.101
+    },
+    {
+     "w": "could",
+     "start": 344.101,
+     "end": 344.281
+    },
+    {
+     "w": "be",
+     "start": 344.281,
+     "end": 344.381
+    },
+    {
+     "w": "avoided",
+     "start": 344.381,
+     "end": 344.701
+    },
+    {
+     "w": "under",
+     "start": 344.701,
+     "end": 345.021
+    },
+    {
+     "w": "three",
+     "start": 345.021,
+     "end": 345.341
+    },
+    {
+     "w": "scenarios",
+     "start": 345.341,
+     "end": 345.781
+    },
+    {
+     "w": "for",
+     "start": 345.781,
+     "end": 346.021
+    },
+    {
+     "w": "reducing",
+     "start": 346.021,
+     "end": 346.321
+    },
+    {
+     "w": "inactivity,",
+     "start": 346.321,
+     "end": 346.861
+    },
+    {
+     "w": "we",
+     "start": 347.261,
+     "end": 347.321
+    },
+    {
+     "w": "used",
+     "start": 347.321,
+     "end": 347.561
+    },
+    {
+     "w": "the",
+     "start": 347.561,
+     "end": 347.741
+    },
+    {
+     "w": "Potential",
+     "start": 347.741,
+     "end": 348.081
+    },
+    {
+     "w": "Impact",
+     "start": 348.081,
+     "end": 348.521
+    },
+    {
+     "w": "Fraction.",
+     "start": 348.521,
+     "end": 348.99
+    }
+   ]
+  },
+  {
+   "i": 44,
+   "plate": "pa-pif",
+   "text": "The 5% reduction was inspired by the National Steps Challenge, while the 15% scenario was based on the World Health Organization's global target. The 50% reduction represented an ambitious hypothetical scenario.",
+   "start": 349.733,
+   "end": 359.903,
+   "words": [
+    {
+     "w": "The",
+     "start": 349.733,
+     "end": 349.841
+    },
+    {
+     "w": "5%",
+     "start": 349.841,
+     "end": 350.041
+    },
+    {
+     "w": "reduction",
+     "start": 350.281,
+     "end": 350.521
+    },
+    {
+     "w": "was",
+     "start": 350.521,
+     "end": 350.821
+    },
+    {
+     "w": "inspired",
+     "start": 350.821,
+     "end": 351.141
+    },
+    {
+     "w": "by",
+     "start": 351.141,
+     "end": 351.341
+    },
+    {
+     "w": "the",
+     "start": 351.341,
+     "end": 351.461
+    },
+    {
+     "w": "National",
+     "start": 351.461,
+     "end": 351.761
+    },
+    {
+     "w": "Steps",
+     "start": 351.761,
+     "end": 352.061
+    },
+    {
+     "w": "Challenge,",
+     "start": 352.061,
+     "end": 352.381
+    },
+    {
+     "w": "while",
+     "start": 352.641,
+     "end": 352.821
+    },
+    {
+     "w": "the",
+     "start": 352.821,
+     "end": 352.921
+    },
+    {
+     "w": "15%",
+     "start": 352.921,
+     "end": 353.261
+    },
+    {
+     "w": "scenario",
+     "start": 353.541,
+     "end": 353.801
+    },
+    {
+     "w": "was",
+     "start": 353.801,
+     "end": 354.081
+    },
+    {
+     "w": "based",
+     "start": 354.081,
+     "end": 354.241
+    },
+    {
+     "w": "on",
+     "start": 354.241,
+     "end": 354.421
+    },
+    {
+     "w": "the",
+     "start": 354.421,
+     "end": 354.501
+    },
+    {
+     "w": "World",
+     "start": 354.501,
+     "end": 354.681
+    },
+    {
+     "w": "Health",
+     "start": 354.681,
+     "end": 354.961
+    },
+    {
+     "w": "Organization's",
+     "start": 354.961,
+     "end": 355.621
+    },
+    {
+     "w": "global",
+     "start": 355.621,
+     "end": 355.821
+    },
+    {
+     "w": "target.",
+     "start": 355.821,
+     "end": 356.161
+    },
+    {
+     "w": "The",
+     "start": 356.746,
+     "end": 356.821
+    },
+    {
+     "w": "50%",
+     "start": 356.821,
+     "end": 357.081
+    },
+    {
+     "w": "reduction",
+     "start": 357.341,
+     "end": 357.661
+    },
+    {
+     "w": "represented",
+     "start": 357.661,
+     "end": 358.061
+    },
+    {
+     "w": "an",
+     "start": 358.061,
+     "end": 358.301
+    },
+    {
+     "w": "ambitious",
+     "start": 358.301,
+     "end": 358.721
+    },
+    {
+     "w": "hypothetical",
+     "start": 358.721,
+     "end": 359.221
+    },
+    {
+     "w": "scenario.",
+     "start": 359.221,
+     "end": 359.903
+    }
+   ]
+  },
+  {
+   "i": 45,
+   "plate": "pa-cases",
+   "text": "Applied to our rates-constant projections, a 5% reduction could avoid about 322 cases in 2030 and 694 in 2050. The estimates rise to 965 and 2,082 under the 15% scenario, and 3,217 and 6,939 under the 50% scenario.",
+   "start": 361.153,
+   "end": 379.277,
+   "words": [
+    {
+     "w": "Applied",
+     "start": 361.153,
+     "end": 361.416
+    },
+    {
+     "w": "to",
+     "start": 361.416,
+     "end": 361.616
+    },
+    {
+     "w": "our",
+     "start": 361.616,
+     "end": 361.756
+    },
+    {
+     "w": "rates-constant",
+     "start": 361.756,
+     "end": 362.235
+    },
+    {
+     "w": "projections,",
+     "start": 362.276,
+     "end": 362.776
+    },
+    {
+     "w": "a",
+     "start": 363.116,
+     "end": 363.216
+    },
+    {
+     "w": "5%",
+     "start": 363.216,
+     "end": 363.416
+    },
+    {
+     "w": "reduction",
+     "start": 363.716,
+     "end": 364.076
+    },
+    {
+     "w": "could",
+     "start": 364.076,
+     "end": 364.276
+    },
+    {
+     "w": "avoid",
+     "start": 364.276,
+     "end": 364.516
+    },
+    {
+     "w": "about",
+     "start": 364.516,
+     "end": 364.736
+    },
+    {
+     "w": "322",
+     "start": 364.736,
+     "end": 365.416
+    },
+    {
+     "w": "cases",
+     "start": 365.416,
+     "end": 365.976
+    },
+    {
+     "w": "in",
+     "start": 365.976,
+     "end": 366.156
+    },
+    {
+     "w": "2030",
+     "start": 366.156,
+     "end": 366.596
+    },
+    {
+     "w": "and",
+     "start": 367.109,
+     "end": 367.186
+    },
+    {
+     "w": "694",
+     "start": 367.186,
+     "end": 368.106
+    },
+    {
+     "w": "in",
+     "start": 368.106,
+     "end": 368.386
+    },
+    {
+     "w": "2050.",
+     "start": 368.386,
+     "end": 368.826
+    },
+    {
+     "w": "The",
+     "start": 368.826,
+     "end": 369.586
+    },
+    {
+     "w": "estimates",
+     "start": 369.586,
+     "end": 369.806
+    },
+    {
+     "w": "rise",
+     "start": 369.806,
+     "end": 370.126
+    },
+    {
+     "w": "to",
+     "start": 370.126,
+     "end": 370.326
+    },
+    {
+     "w": "965",
+     "start": 370.326,
+     "end": 371.226
+    },
+    {
+     "w": "and",
+     "start": 371.226,
+     "end": 371.566
+    },
+    {
+     "w": "2,082",
+     "start": 371.566,
+     "end": 372.546
+    },
+    {
+     "w": "under",
+     "start": 372.546,
+     "end": 372.866
+    },
+    {
+     "w": "the",
+     "start": 372.866,
+     "end": 372.986
+    },
+    {
+     "w": "15%",
+     "start": 372.986,
+     "end": 373.346
+    },
+    {
+     "w": "scenario,",
+     "start": 373.606,
+     "end": 373.986
+    },
+    {
+     "w": "and",
+     "start": 373.986,
+     "end": 374.486
+    },
+    {
+     "w": "3,217",
+     "start": 374.486,
+     "end": 375.886
+    },
+    {
+     "w": "and",
+     "start": 375.886,
+     "end": 376.306
+    },
+    {
+     "w": "6,939",
+     "start": 376.306,
+     "end": 377.786
+    },
+    {
+     "w": "under",
+     "start": 377.786,
+     "end": 378.166
+    },
+    {
+     "w": "the",
+     "start": 378.166,
+     "end": 378.286
+    },
+    {
+     "w": "50%",
+     "start": 378.286,
+     "end": 378.586
+    },
+    {
+     "w": "scenario.",
+     "start": 378.866,
+     "end": 379.277
+    }
+   ]
+  },
+  {
+   "i": 46,
+   "plate": "pa-cases",
+   "text": "These results suggest that a greater reduction in physical inactivity could contribute to lowering Singapore's future dementia burden. The higher estimates in 2050 reflect the larger projected dementia burden, which highlights the potential importance of physical activity as the population ages.",
+   "start": 379.854,
+   "end": 392.997,
+   "words": [
+    {
+     "w": "These",
+     "start": 379.854,
+     "end": 380.026
+    },
+    {
+     "w": "results",
+     "start": 380.026,
+     "end": 380.326
+    },
+    {
+     "w": "suggest",
+     "start": 380.326,
+     "end": 380.686
+    },
+    {
+     "w": "that",
+     "start": 380.686,
+     "end": 380.906
+    },
+    {
+     "w": "a",
+     "start": 380.906,
+     "end": 381.006
+    },
+    {
+     "w": "greater",
+     "start": 381.006,
+     "end": 381.246
+    },
+    {
+     "w": "reduction",
+     "start": 381.246,
+     "end": 381.586
+    },
+    {
+     "w": "in",
+     "start": 381.586,
+     "end": 381.866
+    },
+    {
+     "w": "physical",
+     "start": 381.866,
+     "end": 382.106
+    },
+    {
+     "w": "inactivity",
+     "start": 382.106,
+     "end": 382.746
+    },
+    {
+     "w": "could",
+     "start": 382.746,
+     "end": 383.126
+    },
+    {
+     "w": "contribute",
+     "start": 383.126,
+     "end": 383.526
+    },
+    {
+     "w": "to",
+     "start": 383.526,
+     "end": 383.766
+    },
+    {
+     "w": "lowering",
+     "start": 383.766,
+     "end": 384.026
+    },
+    {
+     "w": "Singapore's",
+     "start": 384.026,
+     "end": 384.626
+    },
+    {
+     "w": "future",
+     "start": 384.626,
+     "end": 384.766
+    },
+    {
+     "w": "dementia",
+     "start": 384.766,
+     "end": 385.106
+    },
+    {
+     "w": "burden.",
+     "start": 385.106,
+     "end": 385.406
+    },
+    {
+     "w": "The",
+     "start": 385.94,
+     "end": 386.016
+    },
+    {
+     "w": "higher",
+     "start": 386.016,
+     "end": 386.236
+    },
+    {
+     "w": "estimates",
+     "start": 386.236,
+     "end": 386.516
+    },
+    {
+     "w": "in",
+     "start": 386.516,
+     "end": 386.696
+    },
+    {
+     "w": "2050",
+     "start": 386.696,
+     "end": 387.196
+    },
+    {
+     "w": "reflect",
+     "start": 387.196,
+     "end": 387.676
+    },
+    {
+     "w": "the",
+     "start": 387.676,
+     "end": 387.896
+    },
+    {
+     "w": "larger",
+     "start": 387.896,
+     "end": 388.136
+    },
+    {
+     "w": "projected",
+     "start": 388.136,
+     "end": 388.496
+    },
+    {
+     "w": "dementia",
+     "start": 388.496,
+     "end": 388.816
+    },
+    {
+     "w": "burden,",
+     "start": 388.816,
+     "end": 389.196
+    },
+    {
+     "w": "which",
+     "start": 389.336,
+     "end": 389.576
+    },
+    {
+     "w": "highlights",
+     "start": 389.576,
+     "end": 389.896
+    },
+    {
+     "w": "the",
+     "start": 389.896,
+     "end": 390.076
+    },
+    {
+     "w": "potential",
+     "start": 390.076,
+     "end": 390.376
+    },
+    {
+     "w": "importance",
+     "start": 390.376,
+     "end": 390.796
+    },
+    {
+     "w": "of",
+     "start": 390.796,
+     "end": 391.096
+    },
+    {
+     "w": "physical",
+     "start": 391.096,
+     "end": 391.296
+    },
+    {
+     "w": "activity",
+     "start": 391.296,
+     "end": 391.716
+    },
+    {
+     "w": "as",
+     "start": 391.716,
+     "end": 392.016
+    },
+    {
+     "w": "the",
+     "start": 392.016,
+     "end": 392.116
+    },
+    {
+     "w": "population",
+     "start": 392.116,
+     "end": 392.436
+    },
+    {
+     "w": "ages.",
+     "start": 392.436,
+     "end": 392.997
+    }
+   ]
+  },
+  {
+   "i": 47,
+   "plate": "pa-caveat",
+   "text": "However, these estimates assume a causal relationship between physical inactivity and dementia, and that the inactivity rate for ages 60 to 74 applies to everyone over 60. They therefore illustrate the potential contribution of reducing physical inactivity rather than the number of cases that would actually be prevented.",
+   "start": 394.247,
+   "end": 409.97,
+   "words": [
+    {
+     "w": "However,",
+     "start": 394.247,
+     "end": 394.541
+    },
+    {
+     "w": "these",
+     "start": 394.901,
+     "end": 395.121
+    },
+    {
+     "w": "estimates",
+     "start": 395.121,
+     "end": 395.501
+    },
+    {
+     "w": "assume",
+     "start": 395.501,
+     "end": 395.861
+    },
+    {
+     "w": "a",
+     "start": 395.861,
+     "end": 396.061
+    },
+    {
+     "w": "causal",
+     "start": 396.061,
+     "end": 396.361
+    },
+    {
+     "w": "relationship",
+     "start": 396.361,
+     "end": 396.941
+    },
+    {
+     "w": "between",
+     "start": 396.941,
+     "end": 397.261
+    },
+    {
+     "w": "physical",
+     "start": 397.261,
+     "end": 397.621
+    },
+    {
+     "w": "inactivity",
+     "start": 397.621,
+     "end": 398.001
+    },
+    {
+     "w": "and",
+     "start": 398.001,
+     "end": 398.381
+    },
+    {
+     "w": "dementia,",
+     "start": 398.381,
+     "end": 398.801
+    },
+    {
+     "w": "and",
+     "start": 399.124,
+     "end": 399.341
+    },
+    {
+     "w": "that",
+     "start": 399.341,
+     "end": 399.481
+    },
+    {
+     "w": "the",
+     "start": 399.481,
+     "end": 399.581
+    },
+    {
+     "w": "inactivity",
+     "start": 399.581,
+     "end": 399.981
+    },
+    {
+     "w": "rate",
+     "start": 399.981,
+     "end": 400.281
+    },
+    {
+     "w": "for",
+     "start": 400.281,
+     "end": 400.461
+    },
+    {
+     "w": "ages",
+     "start": 400.461,
+     "end": 400.641
+    },
+    {
+     "w": "60",
+     "start": 400.641,
+     "end": 400.966
+    },
+    {
+     "w": "to",
+     "start": 400.994,
+     "end": 401.319
+    },
+    {
+     "w": "74",
+     "start": 401.347,
+     "end": 401.672
+    },
+    {
+     "w": "applies",
+     "start": 401.701,
+     "end": 402.181
+    },
+    {
+     "w": "to",
+     "start": 402.181,
+     "end": 402.401
+    },
+    {
+     "w": "everyone",
+     "start": 402.401,
+     "end": 402.761
+    },
+    {
+     "w": "over",
+     "start": 402.761,
+     "end": 403.041
+    },
+    {
+     "w": "60.",
+     "start": 403.041,
+     "end": 403.381
+    },
+    {
+     "w": "They",
+     "start": 403.885,
+     "end": 403.981
+    },
+    {
+     "w": "therefore",
+     "start": 403.981,
+     "end": 404.281
+    },
+    {
+     "w": "illustrate",
+     "start": 404.281,
+     "end": 404.661
+    },
+    {
+     "w": "the",
+     "start": 404.661,
+     "end": 404.821
+    },
+    {
+     "w": "potential",
+     "start": 404.821,
+     "end": 405.181
+    },
+    {
+     "w": "contribution",
+     "start": 405.181,
+     "end": 405.681
+    },
+    {
+     "w": "of",
+     "start": 405.681,
+     "end": 405.961
+    },
+    {
+     "w": "reducing",
+     "start": 405.961,
+     "end": 406.281
+    },
+    {
+     "w": "physical",
+     "start": 406.281,
+     "end": 406.701
+    },
+    {
+     "w": "inactivity",
+     "start": 406.701,
+     "end": 407.221
+    },
+    {
+     "w": "rather",
+     "start": 407.421,
+     "end": 407.661
+    },
+    {
+     "w": "than",
+     "start": 407.661,
+     "end": 407.881
+    },
+    {
+     "w": "the",
+     "start": 407.881,
+     "end": 407.981
+    },
+    {
+     "w": "number",
+     "start": 407.981,
+     "end": 408.141
+    },
+    {
+     "w": "of",
+     "start": 408.141,
+     "end": 408.341
+    },
+    {
+     "w": "cases",
+     "start": 408.341,
+     "end": 408.581
+    },
+    {
+     "w": "that",
+     "start": 408.581,
+     "end": 408.841
+    },
+    {
+     "w": "would",
+     "start": 408.841,
+     "end": 408.961
+    },
+    {
+     "w": "actually",
+     "start": 408.961,
+     "end": 409.301
+    },
+    {
+     "w": "be",
+     "start": 409.301,
+     "end": 409.481
+    },
+    {
+     "w": "prevented.",
+     "start": 409.481,
+     "end": 409.97
+    }
+   ]
+  },
+  {
+   "i": 48,
+   "plate": "open",
+   "text": "We put the same questions to two AI systems, word for word.",
+   "start": 411.22,
+   "end": 414.367,
+   "words": [
+    {
+     "w": "We",
+     "start": 411.22,
+     "end": 411.297
+    },
+    {
+     "w": "put",
+     "start": 411.297,
+     "end": 411.437
+    },
+    {
+     "w": "the",
+     "start": 411.437,
+     "end": 411.577
+    },
+    {
+     "w": "same",
+     "start": 411.577,
+     "end": 411.797
+    },
+    {
+     "w": "questions",
+     "start": 411.797,
+     "end": 412.077
+    },
+    {
+     "w": "to",
+     "start": 412.077,
+     "end": 412.397
+    },
+    {
+     "w": "two",
+     "start": 412.397,
+     "end": 412.657
+    },
+    {
+     "w": "AI",
+     "start": 412.657,
+     "end": 412.957
+    },
+    {
+     "w": "systems,",
+     "start": 412.957,
+     "end": 413.377
+    },
+    {
+     "w": "word",
+     "start": 413.817,
+     "end": 413.857
+    },
+    {
+     "w": "for",
+     "start": 413.857,
+     "end": 414.057
+    },
+    {
+     "w": "word.",
+     "start": 414.057,
+     "end": 414.367
+    }
+   ]
+  },
+  {
+   "i": 49,
+   "plate": "open",
+   "text": "Then we checked every answer against the source.",
+   "start": 414.813,
+   "end": 416.974,
+   "words": [
+    {
+     "w": "Then",
+     "start": 414.813,
+     "end": 414.977
+    },
+    {
+     "w": "we",
+     "start": 414.977,
+     "end": 415.117
+    },
+    {
+     "w": "checked",
+     "start": 415.117,
+     "end": 415.317
+    },
+    {
+     "w": "every",
+     "start": 415.317,
+     "end": 415.697
+    },
+    {
+     "w": "answer",
+     "start": 415.697,
+     "end": 416.017
+    },
+    {
+     "w": "against",
+     "start": 416.017,
+     "end": 416.337
+    },
+    {
+     "w": "the",
+     "start": 416.337,
+     "end": 416.557
+    },
+    {
+     "w": "source.",
+     "start": 416.557,
+     "end": 416.974
+    }
+   ]
+  },
+  {
+   "i": 50,
+   "plate": "setup",
+   "text": "The candidates: Claude Sonnet and Gemini Flash, each company's mid-tier model.",
+   "start": 418.224,
+   "end": 422.209,
+   "words": [
+    {
+     "w": "The",
+     "start": 418.224,
+     "end": 418.322
+    },
+    {
+     "w": "candidates:",
+     "start": 418.322,
+     "end": 418.662
+    },
+    {
+     "w": "Claude",
+     "start": 419.322,
+     "end": 419.342
+    },
+    {
+     "w": "Sonnet",
+     "start": 419.342,
+     "end": 419.662
+    },
+    {
+     "w": "and",
+     "start": 419.662,
+     "end": 419.942
+    },
+    {
+     "w": "Gemini",
+     "start": 419.942,
+     "end": 420.182
+    },
+    {
+     "w": "Flash,",
+     "start": 420.182,
+     "end": 420.502
+    },
+    {
+     "w": "each",
+     "start": 420.882,
+     "end": 421.022
+    },
+    {
+     "w": "company's",
+     "start": 421.022,
+     "end": 421.482
+    },
+    {
+     "w": "mid-tier",
+     "start": 421.482,
+     "end": 421.813
+    },
+    {
+     "w": "model.",
+     "start": 421.842,
+     "end": 422.209
+    }
+   ]
+  },
+  {
+   "i": 51,
+   "plate": "setup",
+   "text": "Same conditions every time: a new chat, the identical prompt, no web search, and no sight of our answer.",
+   "start": 422.845,
+   "end": 428.315,
+   "words": [
+    {
+     "w": "Same",
+     "start": 422.845,
+     "end": 423.062
+    },
+    {
+     "w": "conditions",
+     "start": 423.062,
+     "end": 423.402
+    },
+    {
+     "w": "every",
+     "start": 423.402,
+     "end": 423.822
+    },
+    {
+     "w": "time:",
+     "start": 423.822,
+     "end": 424.122
+    },
+    {
+     "w": "a",
+     "start": 424.442,
+     "end": 424.562
+    },
+    {
+     "w": "new",
+     "start": 424.562,
+     "end": 424.682
+    },
+    {
+     "w": "chat,",
+     "start": 424.682,
+     "end": 424.902
+    },
+    {
+     "w": "the",
+     "start": 425.222,
+     "end": 425.282
+    },
+    {
+     "w": "identical",
+     "start": 425.282,
+     "end": 425.662
+    },
+    {
+     "w": "prompt,",
+     "start": 425.662,
+     "end": 425.962
+    },
+    {
+     "w": "no",
+     "start": 426.322,
+     "end": 426.482
+    },
+    {
+     "w": "web",
+     "start": 426.482,
+     "end": 426.642
+    },
+    {
+     "w": "search,",
+     "start": 426.642,
+     "end": 426.842
+    },
+    {
+     "w": "and",
+     "start": 427.182,
+     "end": 427.282
+    },
+    {
+     "w": "no",
+     "start": 427.282,
+     "end": 427.462
+    },
+    {
+     "w": "sight",
+     "start": 427.462,
+     "end": 427.702
+    },
+    {
+     "w": "of",
+     "start": 427.702,
+     "end": 427.842
+    },
+    {
+     "w": "our",
+     "start": 427.842,
+     "end": 427.962
+    },
+    {
+     "w": "answer.",
+     "start": 427.962,
+     "end": 428.315
+    }
+   ]
+  },
+  {
+   "i": 52,
+   "plate": "recall",
+   "text": "Question one, from memory.",
+   "start": 429.565,
+   "end": 430.794,
+   "words": [
+    {
+     "w": "Question",
+     "start": 429.565,
+     "end": 429.72
+    },
+    {
+     "w": "one,",
+     "start": 429.72,
+     "end": 430.033
+    },
+    {
+     "w": "from",
+     "start": 430.06,
+     "end": 430.46
+    },
+    {
+     "w": "memory.",
+     "start": 430.46,
+     "end": 430.794
+    }
+   ]
+  },
+  {
+   "i": 53,
+   "plate": "recall",
+   "text": "Gemini gave the Ministry of Health's 2030 projection as its answer for 2050.",
+   "start": 431.365,
+   "end": 435.103,
+   "words": [
+    {
+     "w": "Gemini",
+     "start": 431.365,
+     "end": 431.6
+    },
+    {
+     "w": "gave",
+     "start": 431.6,
+     "end": 431.88
+    },
+    {
+     "w": "the",
+     "start": 431.88,
+     "end": 432
+    },
+    {
+     "w": "Ministry",
+     "start": 432,
+     "end": 432.22
+    },
+    {
+     "w": "of",
+     "start": 432.22,
+     "end": 432.42
+    },
+    {
+     "w": "Health's",
+     "start": 432.42,
+     "end": 432.72
+    },
+    {
+     "w": "2030",
+     "start": 432.72,
+     "end": 433.14
+    },
+    {
+     "w": "projection",
+     "start": 433.14,
+     "end": 433.76
+    },
+    {
+     "w": "as",
+     "start": 433.76,
+     "end": 433.94
+    },
+    {
+     "w": "its",
+     "start": 433.94,
+     "end": 434.04
+    },
+    {
+     "w": "answer",
+     "start": 434.04,
+     "end": 434.3
+    },
+    {
+     "w": "for",
+     "start": 434.3,
+     "end": 434.48
+    },
+    {
+     "w": "2050.",
+     "start": 434.48,
+     "end": 435.103
+    }
+   ]
+  },
+  {
+   "i": 54,
+   "plate": "recall",
+   "text": "Sonnet credited the Ministry with eighty thousand by 2030, and didn't seem to know the 2023 survey existed.",
+   "start": 435.792,
+   "end": 441.256,
+   "words": [
+    {
+     "w": "Sonnet",
+     "start": 435.792,
+     "end": 436.16
+    },
+    {
+     "w": "credited",
+     "start": 436.16,
+     "end": 436.5
+    },
+    {
+     "w": "the",
+     "start": 436.5,
+     "end": 436.66
+    },
+    {
+     "w": "Ministry",
+     "start": 436.66,
+     "end": 436.88
+    },
+    {
+     "w": "with",
+     "start": 436.88,
+     "end": 437.16
+    },
+    {
+     "w": "eighty",
+     "start": 437.16,
+     "end": 437.485
+    },
+    {
+     "w": "thousand",
+     "start": 437.513,
+     "end": 437.925
+    },
+    {
+     "w": "by",
+     "start": 437.96,
+     "end": 438.1
+    },
+    {
+     "w": "2030,",
+     "start": 438.1,
+     "end": 438.6
+    },
+    {
+     "w": "and",
+     "start": 438.6,
+     "end": 439.12
+    },
+    {
+     "w": "didn't",
+     "start": 439.12,
+     "end": 439.32
+    },
+    {
+     "w": "seem",
+     "start": 439.32,
+     "end": 439.4
+    },
+    {
+     "w": "to",
+     "start": 439.4,
+     "end": 439.52
+    },
+    {
+     "w": "know",
+     "start": 439.52,
+     "end": 439.62
+    },
+    {
+     "w": "the",
+     "start": 439.62,
+     "end": 439.7
+    },
+    {
+     "w": "2023",
+     "start": 439.7,
+     "end": 440.38
+    },
+    {
+     "w": "survey",
+     "start": 440.38,
+     "end": 440.64
+    },
+    {
+     "w": "existed.",
+     "start": 440.64,
+     "end": 441.256
+    }
+   ]
+  },
+  {
+   "i": 55,
+   "plate": "arith",
+   "text": "Question two came with our data.",
+   "start": 442.506,
+   "end": 443.912,
+   "words": [
+    {
+     "w": "Question",
+     "start": 442.506,
+     "end": 442.732
+    },
+    {
+     "w": "two",
+     "start": 442.732,
+     "end": 443.026
+    },
+    {
+     "w": "came",
+     "start": 443.052,
+     "end": 443.272
+    },
+    {
+     "w": "with",
+     "start": 443.272,
+     "end": 443.432
+    },
+    {
+     "w": "our",
+     "start": 443.432,
+     "end": 443.532
+    },
+    {
+     "w": "data.",
+     "start": 443.532,
+     "end": 443.912
+    }
+   ]
+  },
+  {
+   "i": 56,
+   "plate": "arith",
+   "text": "Both did the arithmetic perfectly: 137,087 people in 2030, and 295,653 in 2050.",
+   "start": 444.452,
+   "end": 452.709,
+   "words": [
+    {
+     "w": "Both",
+     "start": 444.452,
+     "end": 444.692
+    },
+    {
+     "w": "did",
+     "start": 444.692,
+     "end": 444.872
+    },
+    {
+     "w": "the",
+     "start": 444.872,
+     "end": 444.952
+    },
+    {
+     "w": "arithmetic",
+     "start": 444.952,
+     "end": 445.272
+    },
+    {
+     "w": "perfectly:",
+     "start": 445.272,
+     "end": 445.852
+    },
+    {
+     "w": "137,087",
+     "start": 446.332,
+     "end": 448.092
+    },
+    {
+     "w": "people",
+     "start": 448.092,
+     "end": 448.292
+    },
+    {
+     "w": "in",
+     "start": 448.292,
+     "end": 448.532
+    },
+    {
+     "w": "2030,",
+     "start": 448.532,
+     "end": 448.992
+    },
+    {
+     "w": "and",
+     "start": 448.992,
+     "end": 449.552
+    },
+    {
+     "w": "295,653",
+     "start": 449.552,
+     "end": 451.172
+    },
+    {
+     "w": "in",
+     "start": 451.172,
+     "end": 452.072
+    },
+    {
+     "w": "2050.",
+     "start": 452.072,
+     "end": 452.709
+    }
+   ]
+  },
+  {
+   "i": 57,
+   "plate": "arith",
+   "text": "Exactly our figures.",
+   "start": 453.431,
+   "end": 454.509,
+   "words": [
+    {
+     "w": "Exactly",
+     "start": 453.431,
+     "end": 453.772
+    },
+    {
+     "w": "our",
+     "start": 453.772,
+     "end": 454.072
+    },
+    {
+     "w": "figures.",
+     "start": 454.072,
+     "end": 454.509
+    }
+   ]
+  },
+  {
+   "i": 58,
+   "plate": "judge",
+   "text": "The difference was judgement.",
+   "start": 455.759,
+   "end": 457.199,
+   "words": [
+    {
+     "w": "The",
+     "start": 455.759,
+     "end": 455.872
+    },
+    {
+     "w": "difference",
+     "start": 455.872,
+     "end": 456.192
+    },
+    {
+     "w": "was",
+     "start": 456.192,
+     "end": 456.652
+    },
+    {
+     "w": "judgement.",
+     "start": 456.652,
+     "end": 457.199
+    }
+   ]
+  },
+  {
+   "i": 59,
+   "plate": "judge",
+   "text": "Gemini never checked its method against the published 2023 count.",
+   "start": 457.583,
+   "end": 460.757,
+   "words": [
+    {
+     "w": "Gemini",
+     "start": 457.583,
+     "end": 457.832
+    },
+    {
+     "w": "never",
+     "start": 457.832,
+     "end": 458.212
+    },
+    {
+     "w": "checked",
+     "start": 458.212,
+     "end": 458.472
+    },
+    {
+     "w": "its",
+     "start": 458.472,
+     "end": 458.652
+    },
+    {
+     "w": "method",
+     "start": 458.652,
+     "end": 458.892
+    },
+    {
+     "w": "against",
+     "start": 458.892,
+     "end": 459.152
+    },
+    {
+     "w": "the",
+     "start": 459.152,
+     "end": 459.352
+    },
+    {
+     "w": "published",
+     "start": 459.352,
+     "end": 459.612
+    },
+    {
+     "w": "2023",
+     "start": 459.612,
+     "end": 460.352
+    },
+    {
+     "w": "count.",
+     "start": 460.352,
+     "end": 460.757
+    }
+   ]
+  },
+  {
+   "i": 60,
+   "plate": "judge",
+   "text": "Sonnet did check, but blamed the gap on non-residents, and cut its answer by about a quarter.",
+   "start": 461.266,
+   "end": 465.669,
+   "words": [
+    {
+     "w": "Sonnet",
+     "start": 461.266,
+     "end": 461.612
+    },
+    {
+     "w": "did",
+     "start": 461.612,
+     "end": 461.832
+    },
+    {
+     "w": "check,",
+     "start": 461.832,
+     "end": 462.172
+    },
+    {
+     "w": "but",
+     "start": 462.512,
+     "end": 462.612
+    },
+    {
+     "w": "blamed",
+     "start": 462.612,
+     "end": 462.812
+    },
+    {
+     "w": "the",
+     "start": 462.812,
+     "end": 462.992
+    },
+    {
+     "w": "gap",
+     "start": 462.992,
+     "end": 463.132
+    },
+    {
+     "w": "on",
+     "start": 463.132,
+     "end": 463.292
+    },
+    {
+     "w": "non-residents,",
+     "start": 463.292,
+     "end": 463.807
+    },
+    {
+     "w": "and",
+     "start": 463.852,
+     "end": 464.272
+    },
+    {
+     "w": "cut",
+     "start": 464.272,
+     "end": 464.412
+    },
+    {
+     "w": "its",
+     "start": 464.412,
+     "end": 464.592
+    },
+    {
+     "w": "answer",
+     "start": 464.592,
+     "end": 464.812
+    },
+    {
+     "w": "by",
+     "start": 464.812,
+     "end": 464.972
+    },
+    {
+     "w": "about",
+     "start": 464.972,
+     "end": 465.152
+    },
+    {
+     "w": "a",
+     "start": 465.152,
+     "end": 465.312
+    },
+    {
+     "w": "quarter.",
+     "start": 465.312,
+     "end": 465.669
+    }
+   ]
+  },
+  {
+   "i": 61,
+   "plate": "judge",
+   "text": "The real cause is the survey's own base, about seventeen per cent smaller than the resident population.",
+   "start": 466.234,
+   "end": 470.76,
+   "words": [
+    {
+     "w": "The",
+     "start": 466.234,
+     "end": 466.352
+    },
+    {
+     "w": "real",
+     "start": 466.352,
+     "end": 466.552
+    },
+    {
+     "w": "cause",
+     "start": 466.552,
+     "end": 466.832
+    },
+    {
+     "w": "is",
+     "start": 466.832,
+     "end": 467.032
+    },
+    {
+     "w": "the",
+     "start": 467.032,
+     "end": 467.232
+    },
+    {
+     "w": "survey's",
+     "start": 467.232,
+     "end": 467.552
+    },
+    {
+     "w": "own",
+     "start": 467.552,
+     "end": 467.752
+    },
+    {
+     "w": "base,",
+     "start": 467.752,
+     "end": 468.112
+    },
+    {
+     "w": "about",
+     "start": 468.432,
+     "end": 468.572
+    },
+    {
+     "w": "seventeen",
+     "start": 468.572,
+     "end": 468.883
+    },
+    {
+     "w": "per",
+     "start": 468.91,
+     "end": 469.043
+    },
+    {
+     "w": "cent",
+     "start": 469.055,
+     "end": 469.218
+    },
+    {
+     "w": "smaller",
+     "start": 469.232,
+     "end": 469.652
+    },
+    {
+     "w": "than",
+     "start": 469.652,
+     "end": 469.832
+    },
+    {
+     "w": "the",
+     "start": 469.832,
+     "end": 469.952
+    },
+    {
+     "w": "resident",
+     "start": 469.952,
+     "end": 470.212
+    },
+    {
+     "w": "population.",
+     "start": 470.212,
+     "end": 470.76
+    }
+   ]
+  },
+  {
+   "i": 62,
+   "plate": "rerun",
+   "text": "Eight days later we asked the same question again.",
+   "start": 472.01,
+   "end": 474.399,
+   "words": [
+    {
+     "w": "Eight",
+     "start": 472.01,
+     "end": 472.153
+    },
+    {
+     "w": "days",
+     "start": 472.153,
+     "end": 472.333
+    },
+    {
+     "w": "later",
+     "start": 472.333,
+     "end": 472.733
+    },
+    {
+     "w": "we",
+     "start": 472.733,
+     "end": 472.993
+    },
+    {
+     "w": "asked",
+     "start": 472.993,
+     "end": 473.233
+    },
+    {
+     "w": "the",
+     "start": 473.233,
+     "end": 473.393
+    },
+    {
+     "w": "same",
+     "start": 473.393,
+     "end": 473.613
+    },
+    {
+     "w": "question",
+     "start": 473.613,
+     "end": 473.893
+    },
+    {
+     "w": "again.",
+     "start": 473.893,
+     "end": 474.399
+    }
+   ]
+  },
+  {
+   "i": 63,
+   "plate": "rerun",
+   "text": "Gemini's answer came back almost word for word.",
+   "start": 474.864,
+   "end": 477.316,
+   "words": [
+    {
+     "w": "Gemini's",
+     "start": 474.864,
+     "end": 475.313
+    },
+    {
+     "w": "answer",
+     "start": 475.313,
+     "end": 475.533
+    },
+    {
+     "w": "came",
+     "start": 475.533,
+     "end": 475.773
+    },
+    {
+     "w": "back",
+     "start": 475.773,
+     "end": 476.013
+    },
+    {
+     "w": "almost",
+     "start": 476.013,
+     "end": 476.333
+    },
+    {
+     "w": "word",
+     "start": 476.333,
+     "end": 476.693
+    },
+    {
+     "w": "for",
+     "start": 476.693,
+     "end": 476.873
+    },
+    {
+     "w": "word.",
+     "start": 476.873,
+     "end": 477.316
+    }
+   ]
+  },
+  {
+   "i": 64,
+   "plate": "rerun",
+   "text": "Sonnet's score moved nineteen and a half points, more than the gap between the two systems.",
+   "start": 477.956,
+   "end": 482.2,
+   "words": [
+    {
+     "w": "Sonnet's",
+     "start": 477.956,
+     "end": 478.353
+    },
+    {
+     "w": "score",
+     "start": 478.353,
+     "end": 478.533
+    },
+    {
+     "w": "moved",
+     "start": 478.533,
+     "end": 478.773
+    },
+    {
+     "w": "nineteen",
+     "start": 478.773,
+     "end": 479.122
+    },
+    {
+     "w": "and",
+     "start": 479.153,
+     "end": 479.318
+    },
+    {
+     "w": "a",
+     "start": 479.333,
+     "end": 479.425
+    },
+    {
+     "w": "half",
+     "start": 479.433,
+     "end": 479.635
+    },
+    {
+     "w": "points,",
+     "start": 479.653,
+     "end": 480.073
+    },
+    {
+     "w": "more",
+     "start": 480.353,
+     "end": 480.673
+    },
+    {
+     "w": "than",
+     "start": 480.673,
+     "end": 480.813
+    },
+    {
+     "w": "the",
+     "start": 480.813,
+     "end": 480.933
+    },
+    {
+     "w": "gap",
+     "start": 480.933,
+     "end": 481.093
+    },
+    {
+     "w": "between",
+     "start": 481.093,
+     "end": 481.393
+    },
+    {
+     "w": "the",
+     "start": 481.393,
+     "end": 481.513
+    },
+    {
+     "w": "two",
+     "start": 481.513,
+     "end": 481.673
+    },
+    {
+     "w": "systems.",
+     "start": 481.673,
+     "end": 482.2
+    }
+   ]
+  },
+  {
+   "i": 65,
+   "plate": "rerun",
+   "text": "One run proves very little.",
+   "start": 482.692,
+   "end": 484.508,
+   "words": [
+    {
+     "w": "One",
+     "start": 482.692,
+     "end": 482.933
+    },
+    {
+     "w": "run",
+     "start": 482.933,
+     "end": 483.173
+    },
+    {
+     "w": "proves",
+     "start": 483.173,
+     "end": 483.673
+    },
+    {
+     "w": "very",
+     "start": 483.673,
+     "end": 484.073
+    },
+    {
+     "w": "little.",
+     "start": 484.073,
+     "end": 484.508
+    }
+   ]
+  },
+  {
+   "i": 66,
+   "plate": "prompt",
+   "text": "A more detailed prompt raised both scores.",
+   "start": 485.758,
+   "end": 487.832,
+   "words": [
+    {
+     "w": "A",
+     "start": 485.758,
+     "end": 485.836
+    },
+    {
+     "w": "more",
+     "start": 485.836,
+     "end": 485.976
+    },
+    {
+     "w": "detailed",
+     "start": 485.976,
+     "end": 486.396
+    },
+    {
+     "w": "prompt",
+     "start": 486.396,
+     "end": 486.756
+    },
+    {
+     "w": "raised",
+     "start": 486.756,
+     "end": 487.096
+    },
+    {
+     "w": "both",
+     "start": 487.096,
+     "end": 487.336
+    },
+    {
+     "w": "scores.",
+     "start": 487.336,
+     "end": 487.832
+    }
+   ]
+  },
+  {
+   "i": 67,
+   "plate": "prompt",
+   "text": "But under every prompt, Sonnet gave the same rescaled answer.",
+   "start": 488.319,
+   "end": 491.53,
+   "words": [
+    {
+     "w": "But",
+     "start": 488.319,
+     "end": 488.436
+    },
+    {
+     "w": "under",
+     "start": 488.436,
+     "end": 488.676
+    },
+    {
+     "w": "every",
+     "start": 488.676,
+     "end": 489.036
+    },
+    {
+     "w": "prompt,",
+     "start": 489.036,
+     "end": 489.396
+    },
+    {
+     "w": "Sonnet",
+     "start": 489.756,
+     "end": 489.876
+    },
+    {
+     "w": "gave",
+     "start": 489.876,
+     "end": 490.036
+    },
+    {
+     "w": "the",
+     "start": 490.036,
+     "end": 490.236
+    },
+    {
+     "w": "same",
+     "start": 490.236,
+     "end": 490.496
+    },
+    {
+     "w": "rescaled",
+     "start": 490.496,
+     "end": 491.036
+    },
+    {
+     "w": "answer.",
+     "start": 491.036,
+     "end": 491.53
+    }
+   ]
+  },
+  {
+   "i": 68,
+   "plate": "prompt",
+   "text": "The checklist got them to cover the right points.",
+   "start": 492.199,
+   "end": 494.242,
+   "words": [
+    {
+     "w": "The",
+     "start": 492.199,
+     "end": 492.316
+    },
+    {
+     "w": "checklist",
+     "start": 492.316,
+     "end": 492.616
+    },
+    {
+     "w": "got",
+     "start": 492.616,
+     "end": 492.896
+    },
+    {
+     "w": "them",
+     "start": 492.896,
+     "end": 493.036
+    },
+    {
+     "w": "to",
+     "start": 493.036,
+     "end": 493.176
+    },
+    {
+     "w": "cover",
+     "start": 493.176,
+     "end": 493.336
+    },
+    {
+     "w": "the",
+     "start": 493.336,
+     "end": 493.496
+    },
+    {
+     "w": "right",
+     "start": 493.496,
+     "end": 493.676
+    },
+    {
+     "w": "points.",
+     "start": 493.676,
+     "end": 494.242
+    }
+   ]
+  },
+  {
+   "i": 69,
+   "plate": "prompt",
+   "text": "It didn't get them to make the right call.",
+   "start": 494.723,
+   "end": 496.374,
+   "words": [
+    {
+     "w": "It",
+     "start": 494.723,
+     "end": 494.856
+    },
+    {
+     "w": "didn't",
+     "start": 494.856,
+     "end": 495.136
+    },
+    {
+     "w": "get",
+     "start": 495.136,
+     "end": 495.256
+    },
+    {
+     "w": "them",
+     "start": 495.256,
+     "end": 495.416
+    },
+    {
+     "w": "to",
+     "start": 495.416,
+     "end": 495.536
+    },
+    {
+     "w": "make",
+     "start": 495.536,
+     "end": 495.656
+    },
+    {
+     "w": "the",
+     "start": 495.656,
+     "end": 495.776
+    },
+    {
+     "w": "right",
+     "start": 495.776,
+     "end": 495.936
+    },
+    {
+     "w": "call.",
+     "start": 495.936,
+     "end": 496.374
+    }
+   ]
+  },
+  {
+   "i": 70,
+   "plate": "moh",
+   "text": "Question three: what would it take to reach the official 152,000 for 2030?",
+   "start": 497.624,
+   "end": 502.273,
+   "words": [
+    {
+     "w": "Question",
+     "start": 497.624,
+     "end": 497.871
+    },
+    {
+     "w": "three:",
+     "start": 497.871,
+     "end": 498.754
+    },
+    {
+     "w": "what",
+     "start": 498.831,
+     "end": 498.831
+    },
+    {
+     "w": "would",
+     "start": 498.831,
+     "end": 498.951
+    },
+    {
+     "w": "it",
+     "start": 498.951,
+     "end": 499.071
+    },
+    {
+     "w": "take",
+     "start": 499.071,
+     "end": 499.251
+    },
+    {
+     "w": "to",
+     "start": 499.251,
+     "end": 499.431
+    },
+    {
+     "w": "reach",
+     "start": 499.431,
+     "end": 499.551
+    },
+    {
+     "w": "the",
+     "start": 499.551,
+     "end": 499.711
+    },
+    {
+     "w": "official",
+     "start": 499.711,
+     "end": 499.971
+    },
+    {
+     "w": "152,000",
+     "start": 499.971,
+     "end": 501.451
+    },
+    {
+     "w": "for",
+     "start": 501.451,
+     "end": 501.631
+    },
+    {
+     "w": "2030?",
+     "start": 501.631,
+     "end": 502.273
+    }
+   ]
+  },
+  {
+   "i": 71,
+   "plate": "moh",
+   "text": "Ageing alone gives growth of 1.42 times.",
+   "start": 502.935,
+   "end": 506.046,
+   "words": [
+    {
+     "w": "Ageing",
+     "start": 502.935,
+     "end": 503.651
+    },
+    {
+     "w": "alone",
+     "start": 503.651,
+     "end": 503.871
+    },
+    {
+     "w": "gives",
+     "start": 503.871,
+     "end": 504.171
+    },
+    {
+     "w": "growth",
+     "start": 504.171,
+     "end": 504.431
+    },
+    {
+     "w": "of",
+     "start": 504.431,
+     "end": 504.571
+    },
+    {
+     "w": "1.42",
+     "start": 504.571,
+     "end": 505.411
+    },
+    {
+     "w": "times.",
+     "start": 505.411,
+     "end": 506.046
+    }
+   ]
+  },
+  {
+   "i": 72,
+   "plate": "moh",
+   "text": "152,000 needs 2.06.",
+   "start": 506.724,
+   "end": 510.148,
+   "words": [
+    {
+     "w": "152,000",
+     "start": 506.724,
+     "end": 508.391
+    },
+    {
+     "w": "needs",
+     "start": 508.391,
+     "end": 508.771
+    },
+    {
+     "w": "2.06.",
+     "start": 508.771,
+     "end": 510.148
+    }
+   ]
+  },
+  {
+   "i": 73,
+   "plate": "moh",
+   "text": "Sonnet concluded it couldn't be reproduced from the data.",
+   "start": 510.647,
+   "end": 513.197,
+   "words": [
+    {
+     "w": "Sonnet",
+     "start": 510.647,
+     "end": 510.931
+    },
+    {
+     "w": "concluded",
+     "start": 510.931,
+     "end": 511.351
+    },
+    {
+     "w": "it",
+     "start": 511.351,
+     "end": 511.691
+    },
+    {
+     "w": "couldn't",
+     "start": 511.691,
+     "end": 511.971
+    },
+    {
+     "w": "be",
+     "start": 511.971,
+     "end": 512.091
+    },
+    {
+     "w": "reproduced",
+     "start": 512.091,
+     "end": 512.511
+    },
+    {
+     "w": "from",
+     "start": 512.511,
+     "end": 512.751
+    },
+    {
+     "w": "the",
+     "start": 512.751,
+     "end": 512.851
+    },
+    {
+     "w": "data.",
+     "start": 512.851,
+     "end": 513.197
+    }
+   ]
+  },
+  {
+   "i": 74,
+   "plate": "moh",
+   "text": "Gemini found the right numbers, then described a rise as a decline.",
+   "start": 513.923,
+   "end": 517.29,
+   "words": [
+    {
+     "w": "Gemini",
+     "start": 513.923,
+     "end": 514.171
+    },
+    {
+     "w": "found",
+     "start": 514.171,
+     "end": 514.471
+    },
+    {
+     "w": "the",
+     "start": 514.471,
+     "end": 514.611
+    },
+    {
+     "w": "right",
+     "start": 514.611,
+     "end": 514.791
+    },
+    {
+     "w": "numbers,",
+     "start": 514.791,
+     "end": 515.211
+    },
+    {
+     "w": "then",
+     "start": 515.531,
+     "end": 515.611
+    },
+    {
+     "w": "described",
+     "start": 515.611,
+     "end": 515.911
+    },
+    {
+     "w": "a",
+     "start": 515.911,
+     "end": 516.071
+    },
+    {
+     "w": "rise",
+     "start": 516.071,
+     "end": 516.351
+    },
+    {
+     "w": "as",
+     "start": 516.351,
+     "end": 516.691
+    },
+    {
+     "w": "a",
+     "start": 516.691,
+     "end": 516.751
+    },
+    {
+     "w": "decline.",
+     "start": 516.751,
+     "end": 517.29
+    }
+   ]
+  },
+  {
+   "i": 75,
+   "plate": "audit",
+   "text": "Asked to cite their figures, both mostly said they didn't know, which is honest.",
+   "start": 518.54,
+   "end": 521.97,
+   "words": [
+    {
+     "w": "Asked",
+     "start": 518.54,
+     "end": 518.748
+    },
+    {
+     "w": "to",
+     "start": 518.748,
+     "end": 518.928
+    },
+    {
+     "w": "cite",
+     "start": 518.928,
+     "end": 519.068
+    },
+    {
+     "w": "their",
+     "start": 519.068,
+     "end": 519.248
+    },
+    {
+     "w": "figures,",
+     "start": 519.248,
+     "end": 519.588
+    },
+    {
+     "w": "both",
+     "start": 519.908,
+     "end": 520.048
+    },
+    {
+     "w": "mostly",
+     "start": 520.048,
+     "end": 520.388
+    },
+    {
+     "w": "said",
+     "start": 520.388,
+     "end": 520.548
+    },
+    {
+     "w": "they",
+     "start": 520.548,
+     "end": 520.688
+    },
+    {
+     "w": "didn't",
+     "start": 520.688,
+     "end": 520.908
+    },
+    {
+     "w": "know,",
+     "start": 520.908,
+     "end": 521.148
+    },
+    {
+     "w": "which",
+     "start": 521.408,
+     "end": 521.508
+    },
+    {
+     "w": "is",
+     "start": 521.508,
+     "end": 521.628
+    },
+    {
+     "w": "honest.",
+     "start": 521.628,
+     "end": 521.97
+    }
+   ]
+  },
+  {
+   "i": 76,
+   "plate": "audit",
+   "text": "The mistakes were in the extra detail: a table number and a confidence interval that aren't in the source.",
+   "start": 522.457,
+   "end": 527.008,
+   "words": [
+    {
+     "w": "The",
+     "start": 522.457,
+     "end": 522.548
+    },
+    {
+     "w": "mistakes",
+     "start": 522.548,
+     "end": 522.848
+    },
+    {
+     "w": "were",
+     "start": 522.848,
+     "end": 523.068
+    },
+    {
+     "w": "in",
+     "start": 523.068,
+     "end": 523.168
+    },
+    {
+     "w": "the",
+     "start": 523.168,
+     "end": 523.268
+    },
+    {
+     "w": "extra",
+     "start": 523.268,
+     "end": 523.608
+    },
+    {
+     "w": "detail:",
+     "start": 523.608,
+     "end": 523.988
+    },
+    {
+     "w": "a",
+     "start": 524.341,
+     "end": 524.428
+    },
+    {
+     "w": "table",
+     "start": 524.428,
+     "end": 524.648
+    },
+    {
+     "w": "number",
+     "start": 524.648,
+     "end": 524.848
+    },
+    {
+     "w": "and",
+     "start": 524.848,
+     "end": 525.128
+    },
+    {
+     "w": "a",
+     "start": 525.128,
+     "end": 525.208
+    },
+    {
+     "w": "confidence",
+     "start": 525.208,
+     "end": 525.548
+    },
+    {
+     "w": "interval",
+     "start": 525.548,
+     "end": 525.908
+    },
+    {
+     "w": "that",
+     "start": 525.908,
+     "end": 526.088
+    },
+    {
+     "w": "aren't",
+     "start": 526.088,
+     "end": 526.328
+    },
+    {
+     "w": "in",
+     "start": 526.328,
+     "end": 526.468
+    },
+    {
+     "w": "the",
+     "start": 526.468,
+     "end": 526.588
+    },
+    {
+     "w": "source.",
+     "start": 526.588,
+     "end": 527.008
+    }
+   ]
+  },
+  {
+   "i": 77,
+   "plate": "verdict",
+   "text": "Sonnet finished ahead overall, but the lesson is the same for both.",
+   "start": 528.258,
+   "end": 531.338,
+   "words": [
+    {
+     "w": "Sonnet",
+     "start": 528.258,
+     "end": 528.574
+    },
+    {
+     "w": "finished",
+     "start": 528.574,
+     "end": 528.854
+    },
+    {
+     "w": "ahead",
+     "start": 528.854,
+     "end": 529.174
+    },
+    {
+     "w": "overall,",
+     "start": 529.174,
+     "end": 529.494
+    },
+    {
+     "w": "but",
+     "start": 529.914,
+     "end": 530.054
+    },
+    {
+     "w": "the",
+     "start": 530.054,
+     "end": 530.174
+    },
+    {
+     "w": "lesson",
+     "start": 530.174,
+     "end": 530.414
+    },
+    {
+     "w": "is",
+     "start": 530.414,
+     "end": 530.574
+    },
+    {
+     "w": "the",
+     "start": 530.574,
+     "end": 530.694
+    },
+    {
+     "w": "same",
+     "start": 530.694,
+     "end": 530.834
+    },
+    {
+     "w": "for",
+     "start": 530.834,
+     "end": 530.974
+    },
+    {
+     "w": "both.",
+     "start": 530.974,
+     "end": 531.338
+    }
+   ]
+  },
+  {
+   "i": 78,
+   "plate": "verdict",
+   "text": "Reliable at arithmetic.",
+   "start": 531.754,
+   "end": 533.053,
+   "words": [
+    {
+     "w": "Reliable",
+     "start": 531.754,
+     "end": 532.194
+    },
+    {
+     "w": "at",
+     "start": 532.194,
+     "end": 532.394
+    },
+    {
+     "w": "arithmetic.",
+     "start": 532.394,
+     "end": 533.053
+    }
+   ]
+  },
+  {
+   "i": 79,
+   "plate": "verdict",
+   "text": "Unreliable at judgement and recall.",
+   "start": 533.424,
+   "end": 535.148,
+   "words": [
+    {
+     "w": "Unreliable",
+     "start": 533.424,
+     "end": 533.934
+    },
+    {
+     "w": "at",
+     "start": 533.934,
+     "end": 534.154
+    },
+    {
+     "w": "judgement",
+     "start": 534.154,
+     "end": 534.394
+    },
+    {
+     "w": "and",
+     "start": 534.414,
+     "end": 534.714
+    },
+    {
+     "w": "recall.",
+     "start": 534.714,
+     "end": 535.148
+    }
+   ]
+  },
+  {
+   "i": 80,
+   "plate": "verdict",
+   "text": "And the most damaging errors were the confident ones.",
+   "start": 535.975,
+   "end": 538.266,
+   "words": [
+    {
+     "w": "And",
+     "start": 535.975,
+     "end": 536.074
+    },
+    {
+     "w": "the",
+     "start": 536.074,
+     "end": 536.134
+    },
+    {
+     "w": "most",
+     "start": 536.134,
+     "end": 536.314
+    },
+    {
+     "w": "damaging",
+     "start": 536.314,
+     "end": 536.694
+    },
+    {
+     "w": "errors",
+     "start": 536.694,
+     "end": 537.074
+    },
+    {
+     "w": "were",
+     "start": 537.074,
+     "end": 537.374
+    },
+    {
+     "w": "the",
+     "start": 537.374,
+     "end": 537.514
+    },
+    {
+     "w": "confident",
+     "start": 537.514,
+     "end": 537.834
+    },
+    {
+     "w": "ones.",
+     "start": 537.834,
+     "end": 538.266
+    }
+   ]
+  },
+  {
+   "i": 81,
+   "plate": "verdict",
+   "text": "Checking against the source caught a mistake in every system we tested.",
+   "start": 538.651,
+   "end": 541.616,
+   "words": [
+    {
+     "w": "Checking",
+     "start": 538.651,
+     "end": 538.854
+    },
+    {
+     "w": "against",
+     "start": 538.854,
+     "end": 539.134
+    },
+    {
+     "w": "the",
+     "start": 539.134,
+     "end": 539.314
+    },
+    {
+     "w": "source",
+     "start": 539.314,
+     "end": 539.574
+    },
+    {
+     "w": "caught",
+     "start": 539.574,
+     "end": 539.834
+    },
+    {
+     "w": "a",
+     "start": 539.834,
+     "end": 539.954
+    },
+    {
+     "w": "mistake",
+     "start": 539.954,
+     "end": 540.214
+    },
+    {
+     "w": "in",
+     "start": 540.214,
+     "end": 540.454
+    },
+    {
+     "w": "every",
+     "start": 540.454,
+     "end": 540.794
+    },
+    {
+     "w": "system",
+     "start": 540.794,
+     "end": 541.114
+    },
+    {
+     "w": "we",
+     "start": 541.114,
+     "end": 541.274
+    },
+    {
+     "w": "tested.",
+     "start": 541.274,
+     "end": 541.616
+    }
+   ]
+  },
+  {
+   "i": 82,
+   "plate": "cl-range",
+   "text": "So by 2030, we project between about 123,000 and 137,000 people with dementia, and by 2050, between about 197,000 and 296,000.",
+   "start": 542.866,
+   "end": 554.169,
+   "words": [
+    {
+     "w": "So",
+     "start": 542.866,
+     "end": 543.074
+    },
+    {
+     "w": "by",
+     "start": 543.154,
+     "end": 543.254
+    },
+    {
+     "w": "2030,",
+     "start": 543.254,
+     "end": 543.774
+    },
+    {
+     "w": "we",
+     "start": 544.214,
+     "end": 544.254
+    },
+    {
+     "w": "project",
+     "start": 544.254,
+     "end": 544.534
+    },
+    {
+     "w": "between",
+     "start": 544.534,
+     "end": 544.814
+    },
+    {
+     "w": "about",
+     "start": 544.814,
+     "end": 545.054
+    },
+    {
+     "w": "123,000",
+     "start": 545.054,
+     "end": 546.554
+    },
+    {
+     "w": "and",
+     "start": 546.554,
+     "end": 546.834
+    },
+    {
+     "w": "137,000",
+     "start": 546.834,
+     "end": 548.234
+    },
+    {
+     "w": "people",
+     "start": 548.234,
+     "end": 548.434
+    },
+    {
+     "w": "with",
+     "start": 548.434,
+     "end": 548.654
+    },
+    {
+     "w": "dementia,",
+     "start": 548.654,
+     "end": 548.954
+    },
+    {
+     "w": "and",
+     "start": 549.483,
+     "end": 549.574
+    },
+    {
+     "w": "by",
+     "start": 549.574,
+     "end": 549.654
+    },
+    {
+     "w": "2050,",
+     "start": 549.654,
+     "end": 550.134
+    },
+    {
+     "w": "between",
+     "start": 550.614,
+     "end": 550.794
+    },
+    {
+     "w": "about",
+     "start": 550.794,
+     "end": 551.054
+    },
+    {
+     "w": "197,000",
+     "start": 551.054,
+     "end": 552.454
+    },
+    {
+     "w": "and",
+     "start": 552.454,
+     "end": 552.754
+    },
+    {
+     "w": "296,000.",
+     "start": 552.754,
+     "end": 554.169
+    }
+   ]
+  },
+  {
+   "i": 83,
+   "plate": "cl-range",
+   "text": "Even if prevalence keeps falling, the number of cases doubles by 2050, because the population is ageing.",
+   "start": 554.712,
+   "end": 560.219,
+   "words": [
+    {
+     "w": "Even",
+     "start": 554.712,
+     "end": 554.934
+    },
+    {
+     "w": "if",
+     "start": 554.934,
+     "end": 555.114
+    },
+    {
+     "w": "prevalence",
+     "start": 555.114,
+     "end": 555.434
+    },
+    {
+     "w": "keeps",
+     "start": 555.434,
+     "end": 555.734
+    },
+    {
+     "w": "falling,",
+     "start": 555.734,
+     "end": 556.154
+    },
+    {
+     "w": "the",
+     "start": 556.614,
+     "end": 556.654
+    },
+    {
+     "w": "number",
+     "start": 556.654,
+     "end": 556.814
+    },
+    {
+     "w": "of",
+     "start": 556.814,
+     "end": 556.974
+    },
+    {
+     "w": "cases",
+     "start": 556.974,
+     "end": 557.214
+    },
+    {
+     "w": "doubles",
+     "start": 557.214,
+     "end": 557.594
+    },
+    {
+     "w": "by",
+     "start": 557.594,
+     "end": 557.874
+    },
+    {
+     "w": "2050,",
+     "start": 557.874,
+     "end": 558.334
+    },
+    {
+     "w": "because",
+     "start": 558.574,
+     "end": 558.874
+    },
+    {
+     "w": "the",
+     "start": 558.874,
+     "end": 558.994
+    },
+    {
+     "w": "population",
+     "start": 558.994,
+     "end": 559.374
+    },
+    {
+     "w": "is",
+     "start": 559.374,
+     "end": 559.714
+    },
+    {
+     "w": "ageing.",
+     "start": 559.714,
+     "end": 560.219
+    }
+   ]
+  },
+  {
+   "i": 84,
+   "plate": "cl-moh",
+   "text": "All three scenarios fall below the Ministry's 152,000 for 2030, and ageing alone cannot explain that figure.",
+   "start": 561.469,
+   "end": 567.899,
+   "words": [
+    {
+     "w": "All",
+     "start": 561.469,
+     "end": 561.641
+    },
+    {
+     "w": "three",
+     "start": 561.641,
+     "end": 561.941
+    },
+    {
+     "w": "scenarios",
+     "start": 561.941,
+     "end": 562.361
+    },
+    {
+     "w": "fall",
+     "start": 562.361,
+     "end": 562.661
+    },
+    {
+     "w": "below",
+     "start": 562.661,
+     "end": 562.981
+    },
+    {
+     "w": "the",
+     "start": 562.981,
+     "end": 563.161
+    },
+    {
+     "w": "Ministry's",
+     "start": 563.161,
+     "end": 563.541
+    },
+    {
+     "w": "152,000",
+     "start": 563.541,
+     "end": 564.841
+    },
+    {
+     "w": "for",
+     "start": 564.841,
+     "end": 565.001
+    },
+    {
+     "w": "2030,",
+     "start": 565.001,
+     "end": 565.381
+    },
+    {
+     "w": "and",
+     "start": 565.751,
+     "end": 565.991
+    },
+    {
+     "w": "ageing",
+     "start": 565.991,
+     "end": 566.23
+    },
+    {
+     "w": "alone",
+     "start": 566.251,
+     "end": 566.591
+    },
+    {
+     "w": "cannot",
+     "start": 566.591,
+     "end": 566.891
+    },
+    {
+     "w": "explain",
+     "start": 566.891,
+     "end": 567.391
+    },
+    {
+     "w": "that",
+     "start": 567.391,
+     "end": 567.591
+    },
+    {
+     "w": "figure.",
+     "start": 567.591,
+     "end": 567.899
+    }
+   ]
+  },
+  {
+   "i": 85,
+   "plate": "cl-moh",
+   "text": "Cutting inactivity could avoid up to about 7,000 cases by 2050.",
+   "start": 568.335,
+   "end": 572.275,
+   "words": [
+    {
+     "w": "Cutting",
+     "start": 568.335,
+     "end": 568.571
+    },
+    {
+     "w": "inactivity",
+     "start": 568.571,
+     "end": 569.191
+    },
+    {
+     "w": "could",
+     "start": 569.191,
+     "end": 569.451
+    },
+    {
+     "w": "avoid",
+     "start": 569.451,
+     "end": 569.711
+    },
+    {
+     "w": "up",
+     "start": 569.711,
+     "end": 569.891
+    },
+    {
+     "w": "to",
+     "start": 569.891,
+     "end": 570.031
+    },
+    {
+     "w": "about",
+     "start": 570.031,
+     "end": 570.231
+    },
+    {
+     "w": "7,000",
+     "start": 570.231,
+     "end": 571.011
+    },
+    {
+     "w": "cases",
+     "start": 571.011,
+     "end": 571.411
+    },
+    {
+     "w": "by",
+     "start": 571.411,
+     "end": 571.611
+    },
+    {
+     "w": "2050.",
+     "start": 571.611,
+     "end": 572.275
+    }
+   ]
+  },
+  {
+   "i": 86,
+   "plate": "cl-end",
+   "text": "These are scenarios, not forecasts, built on survey rates and a decline that was not statistically significant.",
+   "start": 573.525,
+   "end": 578.88,
+   "words": [
+    {
+     "w": "These",
+     "start": 573.525,
+     "end": 573.756
+    },
+    {
+     "w": "are",
+     "start": 573.756,
+     "end": 573.916
+    },
+    {
+     "w": "scenarios,",
+     "start": 573.916,
+     "end": 574.436
+    },
+    {
+     "w": "not",
+     "start": 574.756,
+     "end": 574.896
+    },
+    {
+     "w": "forecasts,",
+     "start": 574.896,
+     "end": 575.416
+    },
+    {
+     "w": "built",
+     "start": 575.676,
+     "end": 575.876
+    },
+    {
+     "w": "on",
+     "start": 575.876,
+     "end": 576.056
+    },
+    {
+     "w": "survey",
+     "start": 576.056,
+     "end": 576.356
+    },
+    {
+     "w": "rates",
+     "start": 576.356,
+     "end": 576.616
+    },
+    {
+     "w": "and",
+     "start": 576.616,
+     "end": 576.836
+    },
+    {
+     "w": "a",
+     "start": 576.836,
+     "end": 576.936
+    },
+    {
+     "w": "decline",
+     "start": 576.936,
+     "end": 577.176
+    },
+    {
+     "w": "that",
+     "start": 577.176,
+     "end": 577.356
+    },
+    {
+     "w": "was",
+     "start": 577.356,
+     "end": 577.476
+    },
+    {
+     "w": "not",
+     "start": 577.476,
+     "end": 577.736
+    },
+    {
+     "w": "statistically",
+     "start": 577.736,
+     "end": 578.196
+    },
+    {
+     "w": "significant.",
+     "start": 578.196,
+     "end": 578.88
+    }
+   ]
+  },
+  {
+   "i": 87,
+   "plate": "cl-end",
+   "text": "And every number in this video was checked against its original source.",
+   "start": 579.393,
+   "end": 583.044,
+   "words": [
+    {
+     "w": "And",
+     "start": 579.393,
+     "end": 579.516
+    },
+    {
+     "w": "every",
+     "start": 579.516,
+     "end": 579.936
+    },
+    {
+     "w": "number",
+     "start": 579.936,
+     "end": 580.176
+    },
+    {
+     "w": "in",
+     "start": 580.176,
+     "end": 580.456
+    },
+    {
+     "w": "this",
+     "start": 580.456,
+     "end": 580.596
+    },
+    {
+     "w": "video",
+     "start": 580.596,
+     "end": 580.876
+    },
+    {
+     "w": "was",
+     "start": 580.876,
+     "end": 581.196
+    },
+    {
+     "w": "checked",
+     "start": 581.196,
+     "end": 581.476
+    },
+    {
+     "w": "against",
+     "start": 581.476,
+     "end": 581.836
+    },
+    {
+     "w": "its",
+     "start": 581.836,
+     "end": 582.056
+    },
+    {
+     "w": "original",
+     "start": 582.056,
+     "end": 582.496
+    },
+    {
+     "w": "source.",
+     "start": 582.496,
+     "end": 583.044
+    }
+   ]
+  }
+ ],
+ "notes": "voice: full_v2_1.35x.mp3; word times from faster-whisper small.en"
+}

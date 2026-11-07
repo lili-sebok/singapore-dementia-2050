@@ -1,0 +1,12 @@
+# renders, stills and contact sheets (too large for git; share the finished video separately)
+out/
+
+# dependencies (cd app && bun install)
+node_modules/
+
+# working files written by tools/align.ts and tools/narration.ts
+audio/.align/
+audio/.work/
+audio/narration.scratch.mp3
+
+.DS_Store
